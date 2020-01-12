@@ -11,3 +11,16 @@ Distribution
 (A) (HFA/ST) (IG)
 Offered
 fall and spring semesters.
+
+
+3D Printing & Fabrication Resources
+
+
+* #### MeshMixer
+  * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication.
+
+
+* [Finishing & Post Processing](https://makezine.com/projects/make-34/skill-builder-finishing-and-post-processing-your-3d-printed-objects)
+
+
+https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/151814-2.html
