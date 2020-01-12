@@ -13,6 +13,12 @@ Offered
 fall and spring semesters.
 
 
+Artists using 3D printing in their practice
+
+* [Aki Inomata](https://www.aki-inomata.com/)
+* Joshua Harker
+---
+
 3D Printing & Fabrication Resources
 
 * #### Fusion 360
@@ -25,6 +31,9 @@ fall and spring semesters.
 
 
 * [Finishing & Post Processing](https://makezine.com/projects/make-34/skill-builder-finishing-and-post-processing-your-3d-printed-objects)
+
+* UDEMY
+* https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/
 
 
 https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/151814-2.html
