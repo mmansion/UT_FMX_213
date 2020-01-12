@@ -15,6 +15,9 @@ fall and spring semesters.
 
 3D Printing & Fabrication Resources
 
+* #### Fusion 360
+  * Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
+  * [Free student sign up](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 
 * #### MeshMixer
   * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication.
