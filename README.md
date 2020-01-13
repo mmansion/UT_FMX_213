@@ -37,3 +37,8 @@ Artists using 3D printing in their practice
 
 
 https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/151814-2.html
+
+
+### 3D Printing Materials Vendors
+* [Matter Hackers](https://www.matterhackers.com/)
+
