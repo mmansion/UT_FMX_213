@@ -27,7 +27,7 @@ Artists using 3D printing in their practice
   * [Lynda.com - Fusion 360 Essential Training (Free for UT Studens - See Mikhail for Details)](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 * #### MeshMixer
-  * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication.
+  * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication. Mesh mixer is an organic modeling tool. 
 
 
 * [Finishing & Post Processing](https://makezine.com/projects/make-34/skill-builder-finishing-and-post-processing-your-3d-printed-objects)
