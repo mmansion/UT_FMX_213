@@ -1,5 +1,6 @@
 
 
+### Inspiration
 
 #### [Nervous system – generative design studio](https://n-e-r-v-o-u-s.com/)
 
@@ -8,6 +9,7 @@ science, art, and technology. Drawing inspiration from natural phenomena,
 we create computer simulations to generate designs and use digital fabrication to realize products.*
 
 <img src="https://n-e-r-v-o-u-s.com/shop/images/12/340/IMGP1439_xlarge.jpg" width="200" height="200"></img>
+<img src="https://n-e-r-v-o-u-s.com/shop/images/5/92/cc08s_morph_bangle_silver_whiteBG_large.jpg" width="200" height="200"></img>
 
 ---
 list from https://ericaisringhaus.com/
