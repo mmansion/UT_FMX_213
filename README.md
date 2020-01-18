@@ -2,15 +2,19 @@ FMX 213 3D Printing and Modeling I
 
 A studio production course that explores 3D computer modeling, surface texturing and virtual lighting 
 for the purpose of creating digital reproductions of still images. 
+
 Includes an investigation into the concept of virtual and artificial reality imagery. 
+
 Laboratory fee required.
 
-Credits
-4
-Distribution
-(A) (HFA/ST) (IG)
-Offered
-fall and spring semesters.
+
+
+
+# This course will explore:
+
+* 3D Modeling for Design and Fabrication
+* Concept Rendring, Texturing and Lighting
+* 3D Printing and Fabrication
 
 
 Artists using 3D printing in their practice
@@ -107,6 +111,12 @@ Free download
 User Manual
 Tutorials:
 MeshMixer Tutorial Part1 : Modeling for 3D Printing
+
+
+Adobe Illustrator
+
+Adobe Photoshop
+* [Supported file formats](https://helpx.adobe.com/photoshop/using/supported-file-formats-photoshop-cs6.html)
 
 SketchUp
 https://www.sketchup.com/
