@@ -1,17 +1,19 @@
-## 3D Modeling and Design for Fabrication
+## FMX 213 - 3D Modeling and Design for Fabrication
 
 ##### Provisional Syllabus v1.0
 
 <img src="https://media.giphy.com/media/l2JhwdnrGvfnoXrzi/source.gif" width="200" height="200" />
 
-###### <sub>[pixel art by ailadi](https://www.instagram.com/ailadi/)<sub>
+###### <sub>[pixel art by ailadi](https://www.instagram.com/ailadi/)</sub>
 
-|  Info  ||
-| :---   | ------------- |
-| Course Detail | FMX213 - 3D Modeling/Printing (SP20) |
-| Time/Locale   | CCB 126, TR 2-3:50pm |
-| Professor     | Mikhail Mansion, mmansion@ut.edu |
-| Office Hourse | by appointment only |
+<br>
+
+| <sub>Course Details</sub>  ||
+| :---   | -------------   |
+| <sub>Course Detail</sub> | <sub>FMX213 - 3D Modeling/Printing (SP20)</sub> |
+| <sub>Time/Locale</sub>   | <sub>CCB 126, TR 2-3:50pm</sub> |
+| <sub>Professor</sub>     | <sub>Mikhail Mansion, mmansion@ut.edu</sub> |
+| <sub>Office Hourse</sub> | <sub>by appointment only</sub> |
 
 ---
 
