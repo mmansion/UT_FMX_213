@@ -1,4 +1,7 @@
-FMX 213 3D Printing and Modeling I
+# Welcome to 3D Modeling, Design & Fabrication
+### FMX 213 - Course Syllabus
+
+---
 
 A studio production course that explores 3D computer modeling, surface texturing and virtual lighting 
 for the purpose of creating digital reproductions of still images. 
@@ -7,6 +10,20 @@ Includes an investigation into the concept of virtual and artificial reality ima
 
 Laboratory fee required.
 
+
+## Description
+## Aims & Objectives
+## Projects & Activities
+## Grading Policy
+## Materials & Tools
+## Course Resources
+## Course Schedule
+## Course Statements
+
+
+* [Course Schedule]
+* [UT Adademic Calendar](https://www.ut.edu/academiccalendar/)
+* [Attendance Policy]()
 
 
 
