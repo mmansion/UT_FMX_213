@@ -1,5 +1,7 @@
 # 3D Modeling and Design for Fabrication
 
+###### Provisional Syllabus v1.0
+
 |  Info  ||
 | :---   | ------------- |
 | Course Detail | FMX213 - 3D Modeling/Printing (SP20) |
