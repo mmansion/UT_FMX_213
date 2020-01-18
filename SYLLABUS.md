@@ -1,6 +1,10 @@
-# 3D Modeling and Design for Fabrication
+## 3D Modeling and Design for Fabrication
 
-###### Provisional Syllabus v1.0
+##### Provisional Syllabus v1.0
+
+<img src="https://media.giphy.com/media/l2JhwdnrGvfnoXrzi/source.gif" width="200" height="200" />
+
+##### [pixel art by ailadi](https://www.instagram.com/ailadi/)
 
 |  Info  ||
 | :---   | ------------- |
