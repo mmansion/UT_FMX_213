@@ -8,7 +8,7 @@
 
 <br>
 
-| <sub>Course Details</sub>  ||
+| Course Details  ||
 | :---   | -------------   |
 | <sub>Course Detail</sub> | <sub>FMX213 - 3D Modeling/Printing (SP20)</sub> |
 | <sub>Time/Locale</sub>   | <sub>CCB 126, TR 2-3:50pm</sub> |
