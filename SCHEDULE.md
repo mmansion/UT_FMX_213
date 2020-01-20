@@ -12,7 +12,7 @@ Schedule and dates subject to change. Check back often.
 | <sub>Introductions</sub>    | <sub>Dimensioning Objects</sub> |
 | <sub>Course Overview</sub>  | <sub>Starting from 2D Sketches</sub> |
 |  | <sub>Intro to Fusion 360</sub>   |
-|  | <sub>`P1` Project 1 - Found Objects</sub> |
+|  | <sub>`P1` - Begin Project 1 : Found Objects</sub> |
 
 ---
 ## Week 2
@@ -33,32 +33,34 @@ Schedule and dates subject to change. Check back often.
 
 
 ---
-## Week 4 (2020.02.10)
+## Week 4
 
 | Tuesday 2/11 | Thursday 2/13 |
 | :---     | ------   |
-| <sub> `p1` Proejct 1 Due / Critique</sub> |  |
+| <sub> `p1` - Project 1 Due: Found Objects / Presentation + Critique</sub> |  |
 
 ---
 
-## Week 5 (2020.02.17)
+## Week 5
 ### Tue, 2/18
 ### Thu, 2/20
 
 ---
-## Week 6 (2020.02.24)
+## Week 6
 ### Tue, 2/25
 ### Thu, 2/27
 
 ---
-## Week 7 (2020.03.02)
+## Week 7
 ### Tue, 3/3
 ### Thu, 3/5
 
 ---
 ## Week 8 (2020.03.09)
-### Tue, 3/10
-### Thu, 3/12
+
+| Tuesday 3/10 & Thursday 3/12 |
+| :---     |
+| SPRING BREAK! 👏🎉🥂😸 |
 
 ---
 ## Week 9 (2020.03.16)
