@@ -17,14 +17,14 @@
 
 ---
 
-## COURSE OVERVIEW
+## Course Overview
 
 Humans are the only species on earth with the ability to completely reshape the planet through imagination. 🐒 <br>
 We can dream, design and invent new technologies that dramatically impact the earth and those living on it. Today, the modern landscape of design and fabrication technologies are reshaping the world in incredible ways. How will you, as an artist or designer, leverage these tools in order to produce meaningful designs? This is a question we will critically examine throughout this course. 
 
 In this studio/performance-oriented class, we will focus on designing and modeling 3D objects for fabrication. We will explore workflows that allow you to take sketches, photographs and scans into a 3D environment, and then edit those designs order to manufacture them using 3D printers, and related fabrication hardware. We will also explore methods of texturing, lighting and rendering design concepts in order to create photo-realistic (or even abstract/artistic) representations of designs for purposes of documentation, visual communication, or even as part of other creative workflows.
 
-## AIMS & OBJECTIVES
+## Aims & Objectives
 
 By the end of this course you should be familiar with artists, designers and engineers leveraging modern fabrication tools in their practice, and be able to apply basic 3D modling, rendering and fabrication techniques in your own work.
 
@@ -42,14 +42,14 @@ of media. Students will complete 3 projects. Some classes will be designated as 
 days, giving students time to work on their projects. Students will be required to attend
 lab days.
 
-## SCHEDULE
+## Course Schedule
 
 The course schedule is located at :
 https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
 
 This is a dynamic course that we will adapt and amend at times to improve the overall learning experience. This means the schedule will change and should be checked regularly!
 
-## MATERIALS
+## Required Materials
 
 Your materials will largely depend on their proposed projects, however a few things are commom to the entire course.
 
@@ -62,18 +62,14 @@ Your materials will largely depend on their proposed projects, however a few thi
 * Flash drive/ external hard drive (128G+)
 * 3 Button Mouse
 
-## PROJECTS & ACTIVITIES
+## Activities & Projects
 
 This is a summary of our projects and activites. More details will be provided in the course schedulle
 * 
 
-## Grading Policy
-## Materials & Tools
-## Course Resources
-## Course Schedule
-## Course Statements
+## Participating & Assessment
 
-## ATTENDANCE
+### Attendance
 This is a performance-based class, and interaction with peers and the professor cannot
 be duplicated outside of class. Regular class participation and continuous faculty
 evaluation are crucial elements of the learning process. One cannot participate, or
@@ -82,16 +78,46 @@ absent, it is your responsibility to acquire any material that you have missed, 
 professor's responsibility. Coming to class late (after roll call), leaving early, failing to be
 prepared for class, or failing to fully participate in class, will count as an absence.
 
-  * 1-3 absences: 0 points subtracted from final course grade
-  * 4 absences: 10 points subtracted from final course grade
-  * 5 absences: 20 points subtracted from final course grade
-  * 6 absences: 30 points subtracted from final course grade
-  * 7 absences or more: failure in the course, despite assignments average
+| Attendance  | |
+| :---   | -------------   |
+| <sub>1-3 Absences</sub> | <sub>0 points subtracted from final course grade</sub> |
+| <sub>4 Absences</sub>  | <sub>10 points subtracted from final course grade</sub> |
+| <sub>5 Absenses</sub>  | <sub>20 points subtracted from final course grade</sub> |
+| <sub>6 Absenses</sub>  | <sub>30 points subtracted from final course grade</sub> |
+| <sub>7 Absenses+</sub> | <sub>Automatic Failure. No Exceptions</sub> |
+
 
 ```
 It is the responsibility of the student to initiate and maintain communication with the
-professor in case of an unusual circumstance. 
+professor in case of an unusual circumstance. Absenses can beIf you are absent it is your responsibility to determine what you missed and coordinate with your classmates to make up the work.
 ```
+
+* #### Excused Absences
+
+  * Excused absences include:
+
+    * Court-imposed legal obligations (e.g., jury duty and subpoenas)
+    * Medical procedure
+    * Required participation in University-sponsored events
+    * (e.g. performances, athletic events, academic research presentations)
+    * Observation of religious holy days
+    * Requirements of military service
+    * Unforeseen emergencies such as illness, injury, hospitalization, deaths in the immediate family, consequences of severe weather and other crises.
+
+```
+Students should contact instructors as soon as possible in these cases.
+Instructors may require documentation or verification to excuse unscheduled
+absences.
+** Employment schedules, athletic conditioning and practice schedules and
+personal appointments are not valid reasons for excused absences. 
+```
+
+
+## Materials & Tools
+## Course Resources
+## Course Schedule
+## Course Statements
+
 
 
 
