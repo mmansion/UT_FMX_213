@@ -3,8 +3,9 @@
 ### FMX 213 - 3D Modeling and Design for Fabrication
 
 ```
-* All class resources are linked here. This list gets updated regularly so please check back often. 
-* If you find something relevant or inspiring you think we should add, shoot an email to mmansion@ut.edu. 
+* All class resources are linked here. 
+* This list gets updated regularly. Check back often! 
+* If you find something relevant or inspiring we should add, send to mmansion@ut.edu. 
 ```
 
 
