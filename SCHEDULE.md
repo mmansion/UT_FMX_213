@@ -1,26 +1,46 @@
 # Course Schedule
 
-## Week 1 (2020.01.20)
-
-### Tue, 1/21
-* Introductions
-* About the Course
-* Intro to Fusion 360
+```
+Schedule and dates subject to change. Check back often.
+```
 
 ---
-## Week 2 (2020.01.27)
-### Tue, 1/28
-### Thu, 1/30
+## Week 1
+
+| Tuesday 1/21 | Thursday 1/23 |
+| :---     | ------   |
+| <sub>Introductions</sub>    | <sub>Dimensioning Objects</sub> |
+| <sub>Course Overview</sub>  | <sub>Starting from 2D Sketches</sub> |
+|  | <sub>Intro to Fusion 360</sub>   |
+|  | `P1` Project 1 - Found Objects |
 
 ---
-## Week 3 (2020.02.03)
-### Tue, 2/4
-### Thu, 2/6
+## Week 2
+
+| Tuesday 1/28 | Thursday 1/30 |
+| :---     | ------   |
+| <sub> `P1` Bring x3 Found Objects </sub> | <sub> Intro to UT Fab Lab</sub>|
+| <sub> Intro to 3D Printing </sub> | <sub>|  |
+| <sub> Modeling in Fusion 360 </sub>| |
+
+
+---
+## Week 3 
+
+| Tuesday 2/4 | Thursday 2/6 |
+| :---     | ------   |
+| <sub>Project 1 - Due, Critique</sub>   | <sub>Modeling in Fusion 360</sub> |
+| <sub> Ske
+| <sub>Project 2 - Assigned |
+
+
 
 ---
 ## Week 4 (2020.02.10)
 ### Tue, 2/11
 ### Thu, 2/13
+
+* Project 1
 
 ---
 
