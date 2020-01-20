@@ -192,22 +192,22 @@ information. You are responsible for accessing this information.
 * Note: The professor reserves the right to make changes to this syllabus, schedule, and
 any course materials as necessary.
 
-#### IN CASE OF EMERGENCY IN CASS
- * The Cass Building is 611 UT University Drive.
- * The Cass Annex is 607 UT McNeel Court
- * Campus Safety
- * Phone Numbers: 
-   * On Campus: x7777
-   * Off Campus or by cell phone: (813) 257-7777
-   * Life-Threatening Situations:
-    * Call 911 and then call Campus Safety
-    * Safety Alerts www.ut.edu/alert
-    * Tropical Weather www.ut.edu/weather
-    * Safe Escort Service
-#### LASER TEAM
-   * On campus x4515
-   * Off Campus or cell phone: (813) 257-4515
-   * Campus Safety Office
-     * Maureen A. Daly Innovation and Collaboration
-      Building (first floor, right behind the Thomas parking garage)
+ #### IN CASE OF EMERGENCY IN CASS
+  * The Cass Building is 611 UT University Drive.
+  * The Cass Annex is 607 UT McNeel Court
+  * Campus Safety
+  * Phone Numbers: 
+    * On Campus: x7777
+    * Off Campus or by cell phone: (813) 257-7777
+    * Life-Threatening Situations:
+     * Call 911 and then call Campus Safety
+     * Safety Alerts www.ut.edu/alert
+     * Tropical Weather www.ut.edu/weather
+     * Safe Escort Service
+ #### LASER TEAM
+    * On campus x4515
+    * Off Campus or cell phone: (813) 257-4515
+    * Campus Safety Office
+      * Maureen A. Daly Innovation and Collaboration
+       Building (first floor, right behind the Thomas parking garage)
 
