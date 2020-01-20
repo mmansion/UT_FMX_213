@@ -69,6 +69,8 @@ lab days.
 
 ## Participation & Assessment
 
+Your assessment is based on  participation and performance. Since we will be exploring new technical and artistic territory,  you will be assessed on your progress, efforts and general application of the basic concepts introduced in class. In this course we use the format of critique as a tool for soliciting feedback and evaluation of projects. Group critique can feel a bit uncomfortable at first, but is invaluable in the real-world, and is found in most any art/design-related courses of study. Note that your work will *NOT* be graded if it is not presented at critique. See the section below on critique to better understand the criteria being evaluated.
+
 ### Attendance
 This is a performance-based class, and interaction with peers and the professor cannot
 be duplicated outside of class. Regular class participation and continuous faculty
@@ -101,10 +103,22 @@ prepared for class, or failing to fully participate in class, will count as an a
 
 ### Critique
 
-Critique is a critical component of the course and work will not be graded if it is not
-presented at critique.You must arrive on time to critique and be prepared to present,
-with your work finished and installed by the start of class. If you are not prepared for
-critique, you will not present your work and your work will not be graded. 
+
+Throughout the course students will receive feedback during critiques. Critique discussions should
+come from the group, and aim to be both helpful and honest. Occasionally outside critics will be invited
+to our critiques. Please treat our guest with respect and with enthusiasm for offering their time. Below is
+a rubric to help elucidate what critique in this course actually means.
+
+| Critique Criteria  | |
+| :---   | -------------   |
+| <sub> Is the work complete? </sub> | <sub> 20% </sub>|
+| <sub> Does it conform to the assignment? </sub> | <sub> 20% </sub> |
+| <sub> Is the student engaged in the discussion (for their work and for others)</sub>  | <sub> 10% </sub> |
+| <sub> Is the work suitably presented (i.e. projected, printed, hung, good lighting, etc)? </sub> | <sub> 10% </sub>|
+| <sub> Can the student speak to their design choices; do the choices seem considered? </sub> | <sub> 10% </sub> |
+| <sub> How well does it address the intended concept or goal? </sub> | <sub> 10% </sub> |
+| <sub> Does it function, or is it working as intended (literally or conceptually)? </sub> | <sub> 10% </sub> |
+| <sub> Has the work been documented? </sub> | <sub> 10% </sub> |
 
 ### Grading
 
