@@ -29,9 +29,9 @@ In this studio/performance-oriented class, we will focus on designing and modeli
 By the end of this course you should be familiar with artists, designers and engineers leveraging modern fabrication tools in their practice, and be able to apply basic 3D modling, rendering and fabrication techniques in your own work.
 
 👀 **This course we will explore:** 
-* Basic Technique Modeling Objects in 3D 
+* How to Model Objects in 3D
 * Fabrication of Objects using 3D Printers
-* Rendering Concepts/Designs for Presentation
+* Texturing, Lighting & Rendering
 
 A lecture or demonstration will usually begin each class period, of which students are
 encourage to take notes. Demos may be reviewed later in the class or briefly at the
