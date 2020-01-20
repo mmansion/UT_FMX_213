@@ -19,8 +19,9 @@ Schedule and dates subject to change. Check back often.
 
 | Tuesday 1/28 | Thursday 1/30 |
 | :---     | ------   |
-| <sub> `P1` Bring x3 Found Objects </sub> | <sub> Intro to UT Fab Lab</sub>|
-| <sub> Modeling for 3D Printing (Illustrator to Fusion Workflow) </sub> | <sub> Intro to Ultimaker Printers & Cura Software |
+| <sub> `P1` Bring x3 Found Objects </sub> | <sub> Intro to UT Fab Lab</sub> |
+| <sub> Assessing designs for 3D Printing </sub> | <sub> Intro to Ultimaker Printers & Cura Software |
+| <sub> 3D Modeling - Illustrator to Fusion Workflow </sub> |  |
 
 
 ---
