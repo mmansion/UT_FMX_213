@@ -56,8 +56,6 @@ lab days.
 
 ## Required Materials
 
-Your materials will largely depend on their proposed projects, however a few things are commom to the entire course.
-
 * Personal laptop capable of running course software / access to computer lab
 * Fusion 360 by Autodesk <sub>([see course resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md))</sub>
 * Adobe CC: Primarily Photoshop and Illustrator
@@ -66,13 +64,6 @@ Your materials will largely depend on their proposed projects, however a few thi
 * A process blog
 * Flash drive/ external hard drive (128G+)
 * 3 Button Mouse
-
----
-
-## Activities & Projects
-
-This is a summary of our projects and activites. More details will be provided in the course schedulle
-* 
 
 ---
 
@@ -116,6 +107,8 @@ with your work finished and installed by the start of class. If you are not prep
 critique, you will not present your work and your work will not be graded. 
 
 ### Grading
+
+See [course schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md) for assignment dates.
 
 | Overall Grades  | |
 | :---   | -------------   |
