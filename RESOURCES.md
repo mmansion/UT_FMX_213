@@ -6,9 +6,7 @@ All class resources are linked here. If you find something relevant or inspiring
 
 ---
 
-
 ## CAMPUS RESOURCES
-
 
 * ### UT Fab Lab 
  * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
@@ -20,7 +18,6 @@ All class resources are linked here. If you find something relevant or inspiring
     * 10am-8pm Friday
     * 12-3pm Saturday & Sunday
 
-
     * The Cage will be closed during:
       - Spring Break: Saturday 3/7/19 - Sunday 3/15/20. 
         It is possible to reserve equipment over the Spring Break period. 
@@ -30,25 +27,22 @@ All class resources are linked here. If you find something relevant or inspiring
 
   * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage. 
 
+---
 
 ## SOFTWARE & TOOLS
 
+The primary software in this course we will explore is Fusion 360; and the primary hardware we will utiize are the Ultimaker 3D printers, located in the UT Fab Lab. Supporting software tools like MeshMixer, Illustrator and Photoshop will likely be used at times to support our process and workflow. Additionally, we *may* be experimenting with other software, like Rhino, C4D, Unity, and Adobe's new Substance 3D.
 
-* #### [Autodesk - Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+* ### [Autodesk - Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
   * Fusion 360 is a versatile CAD tool by Autodesk that is excellent for small to medium-sized fabrication projects. Although it has many uses, we will primarily be explorings its 3D modeling and rendering capabilities. This application is available in the CAS computer labs, and because the application is a hybrid cloud/desktop application, **everone will need to create their own Fusion 360 account online**.
   * [Free Student Sign Up](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
   * [Lynda.com - Fusion 360 Essential Training (Free for UT Studens - See Mikhail for Details)](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
-* #### [MeshMixer](http://www.meshmixer.com/)
+* ### [MeshMixer](http://www.meshmixer.com/)
   * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication. Mesh mixer is an organic modeling tool. 
 
-* [Finishing & Post Processing](https://makezine.com/projects/make-34/skill-builder-finishing-and-post-processing-your-3d-printed-objects)
-
-* UDEMY
-* 
-
-
-https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/151814-2.html
+* ### [Substance - 3D Texturing Tools](https://www.substance3d.com/)
+* ### [Unity Game Engine](https://unity3d.com/)
 
 
 ### 3D Printing Materials Vendors
