@@ -12,8 +12,15 @@
 
 ## CAMPUS RESOURCES
 
+* ### General Stuff
+  * [UT Academic Calendar](https://www.ut.edu/about-ut/university-services/office-of-the-registrar/academic-calendar)
+
 * ### UT Fab Lab 
- * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
+
+  * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
+  * [Fab Lab Open Access Google Calendar](https://calendar.google.com/calendar/b/1/r?cid=MTE0ZmFibGFiQGdtYWlsLmNvbQ)
+  * 
+  
 
 * ### Cass Lab Cage
 
@@ -52,11 +59,12 @@ The primary software in this course we will explore is Fusion 360; and the prima
 ## ONLINE LEARNING RESOURCES
 
 * ### Fusion 360 
- * [Fusion 360 - Essential Training](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html) 
- * [Fusion 360 - Making a 3D Printed Product Enclosure](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-3D-Printed-Product-Enclosure/642471-2.html)
- * [Fusion 360 - Design for Additive Manufacturing](https://www.lynda.com/Fusion-360-tutorials/Design-Additive-Manufacturing-FDM/609006-2.html)
- * [2D Sketching in Fusion 360](https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/)
+  * [Fusion 360 - Essential Training](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html) 
+  * [Fusion 360 - Making a 3D Printed Product Enclosure](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-3D-Printed-Product-Enclosure/642471-2.html)
+  * [Fusion 360 - Design for Additive Manufacturing](https://www.lynda.com/Fusion-360-tutorials/Design-Additive-Manufacturing-FDM/609006-2.html)
+  * [2D Sketching in Fusion 360](https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/)
 
 * ### 3D Printing
- *  [Preparing a Print for Ultimaker using Cura](https://ultimaker.com/en/resources/23119-preparing-a-print-with-ultimaker-cura)
- * [3D Printing (very basic intro to printing and problem solving)](https://www.lynda.com/SharedPlaylist/5cb00a30aa4e468e8fb2e7e8a6bbdd8e)
+   *  [Preparing a Print for Ultimaker using Cura](https://ultimaker.com/en/resources/23119-preparing-a-print-with-ultimaker-cura)
+   * [3D Printing (very basic intro to printing and problem solving)](https://www.lynda.com/SharedPlaylist/5cb00a30aa4e468e8fb2e7e8a6bbdd8e)
+   * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
