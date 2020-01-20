@@ -1,4 +1,4 @@
-## COURSE RESOURCES 
+# COURSE RESOURCES 
 
 ### FMX 213 - 3D Modeling and Design for Fabrication
 
@@ -7,12 +7,16 @@
 
 ## CAMPUS RESOURCES
 
-  * ### Cass Lab Cage
-    * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage
-    * **Cage Hours of Operation**:
-      * 8am-10pm Monday-Thursday
-      * 10am-8pm Friday
-      * 12-3pm Saturday & Sunday
+
+* UT Fab Lab 
+ * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
+
+* ### Cass Lab Cage
+  * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage
+  * **Cage Hours of Operation**:
+    * 8am-10pm Monday-Thursday
+    * 10am-8pm Friday
+    * 12-3pm Saturday & Sunday
 
 ## SOFTWARE & TOOLS
 
@@ -37,6 +41,8 @@ https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/
 
 ### 3D Printing Materials Vendors
 * [Matter Hackers](https://www.matterhackers.com/)
+
+
 
 
 
