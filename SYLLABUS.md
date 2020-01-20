@@ -17,26 +17,60 @@
 
 ---
 
-## Description
+## COURSE OVERVIEW
 
 Humans are the only species on earth with the ability to completely reshape the world through imagination. 🐒🐒🐒 
 We can dream, design and invent new technologies that dramatically impact the planet and those living on it. Today, the modern landscape of design and fabrication technologies are reshaping the world in incredible ways. How will you, as an artist or designer, leverage these tools in order to produce meaningful designs? This is a question we will critically examine throughout this course. 
 
 In this studio/performance-oriented class, we will focus on designing and modeling 3D objects for fabrication. We will explore workflows that allow you to take sketches, photographs and scans into a 3D environment, and then edit those designs order to manufacture them using 3D printers, and related fabrication hardware. We will also explore methods of texturing, lighting and rendering design concepts in order to create photo-realistic (or even abstract/artistic) representations of designs for purposes of documentation, visual communication, or even as part of other creative workflows.
 
-## Aims & Objectives
+## AIMS & OBJECTIVES
 
 By the end of this course you should be familiar with artists, designers and engineers leveraging modern fabrication tools in their practice, and be able to apply basic 3D modling, rendering and fabrication techniques in your own work.
 
-This course will explore:
-* Basic Technique Modeling Objects in 3D
+👀 **This course we will explore:** 🔭
+* Basic Technique Modeling Objects in 3D 👀
 * Fabrication of Objects using 3D Printers
 * Rendering Concepts/Designs for Presentation
 
-* Explore various applications for 3D printing
-& 3D Modeling and Design
+A lecture or demonstration will usually begin each class period, of which students are
+encourage to take notes. Demos may be reviewed later in the class or briefly at the
+beginning of the next class. Although the projects are diverse in design and content,
+they are designed to progressively build skills and ideas. All projects are designed to
+establish the concept of the computer as a creative tool that allows universal integration
+of media. Students will complete 3 projects. Some classes will be designated as lab
+days, giving students time to work on their projects. Students will be required to attend
+lab days.
+
+## SCHEDULE
+
+The course schedule is located at :
+https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
+
+This is a dynamic course that we will adapt and amend at times to improve the overall learning experience. This means the schedule will change and should be checked regularly!
+
+## MATERIALS
+
+Your materials will largely depend on their proposed projects, however a few things are commom to the entire course.
+
+* Access to a personal laptop capable of running the course software, or use of the computer lab
+* Fusion 360 
+* Adobe CC: Primarily Photoshop and Illustrator
+* 
+Laptop or computer lab
+Adobe Suite: Photoshop, Premier, After Effects etc.
+Autodesk Maya
+Autodesk Fusion 360
+MeshMixer
+lynda.com account + library card (access through local library)
+A sketchbook
+A blog
+Flash drive/ external hard drive
+3 Button Mouse
 
 ## Projects & Activities
+
+
 ## Grading Policy
 ## Materials & Tools
 ## Course Resources
