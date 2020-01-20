@@ -14,21 +14,15 @@
       * 10am-8pm Friday
       * 12-3pm Saturday & Sunday
 
-## ONLINE RESOURCES
-
-
 ## SOFTWARE & TOOLS
 
 
-* #### Autodesk - Fusion 360
+* #### [Autodesk - Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
   * Fusion 360 is a versatile CAD tool by Autodesk that is excellent for small to medium-sized fabrication projects. Although it has many uses, we will primarily be explorings its 3D modeling and rendering capabilities. This application is available in the CAS computer labs, and because the application is a hybrid cloud/desktop application, **everone will need to create their own Fusion 360 account online**.
   * [Free Student Sign Up](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
   * [Lynda.com - Fusion 360 Essential Training (Free for UT Studens - See Mikhail for Details)](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
-
-* Good for small to medium-size fabrication projects.
-
-* #### MeshMixer
+* #### [MeshMixer](http://www.meshmixer.com/)
   * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication. Mesh mixer is an organic modeling tool. 
 
 
@@ -120,26 +114,15 @@ How to make Voronoi Patterns in MeshMixer
 Fun 3D print and Physical computing projects from Adafruit
 
 
-HELPFUL MAYA TUTORIALS
-Beginner Basics:
-Space Ship: https://www.youtube.com/watch?v=cdVBx1gpJwQ
-Couch: https://www.youtube.com/watch?v=zqDqiXRtEfc
 
-How to make a hole:
-https://www.youtube.com/watch?v=26SQuA2MPWQ
-
-https://www.youtube.com/watch?v=2-GuUG25yyw
 
 How to create a turntable animation: a turntable camera and settings
 
 FUSION 360
 MESH MIXER
 Meshmixer 101
-
 Meshmixer 3D printing
-
 MeshMixer Tutorial Part1 : Modeling for 3D Printing
-
 
 
 3D PRINTING HELP
@@ -160,63 +143,64 @@ moveable parts – this guy is kind of dull but has some good insight
 
 
 
-
 A GIANT LIST OF EVERYTHING YOU NEED TO KNOW ABOUT 3D MODELING
 Everything Below Comes from this page!!
 
 http://freetexthost.com/nzjanyanw0
 Tutorials:
 
-Image Planes as reference – setup
-http://www.free3dtutorials.com
-http://www.3dbuzz.com/vbforum/sv_home.php
-http://www.3dk.org/tutorials/date/15/1.html
-http://www.3dtotal.com
-http://cg.tutsplus.com/
-http://www.creativecow.net/
-http://www.videocopilot.net/
-http://poopinmymouth.com/
-http://www.tutorialized.com/
-http://www.creativecrash.com/
-http://www.thegnomonworkshop.com/
-http://www.digitaltutors.com/09/index.php
-http://www.evermotion.org/tutorials
-http://www.google.com/
+## Image Planes as reference – setup
+* http://www.free3dtutorials.com
+* http://www.3dbuzz.com/vbforum/sv_home.php
+* http://www.3dk.org/tutorials/date/15/1.html
+* http://www.3dtotal.com
+* http://cg.tutsplus.com/
+* http://www.creativecow.net/
+* http://www.videocopilot.net/
+* http://poopinmymouth.com/
+* http://www.tutorialized.com/
+* http://www.creativecrash.com/
+* http://www.thegnomonworkshop.com/
+* http://www.digitaltutors.com/09/index.php
+* http://www.evermotion.org/tutorials
+* http://www.google.com/
+
 Specific Starter Tutorials:
 
-Modeling
+## Modeling
 
-http://www.3dtotal.com/ffa/tutorials/max/joanofarc/joanmenu.php : 3DS Max Character Modeling tutorial – Best you’ll find
-http://www.poopinmymouth.com/tutorial/tutorial.htm : Great introduction to basic game character modeling
-http://newtek.com/lightwave/training.php : Free Lightwave 3D training videos
+* http://www.3dtotal.com/ffa/tutorials/max/joanofarc/joanmenu.php : 3DS Max Character Modeling tutorial – Best you’ll find
+* http://www.poopinmymouth.com/tutorial/tutorial.htm : Great introduction to basic game character modeling
+* http://newtek.com/lightwave/training.php : Free Lightwave 3D training videos
+
 UVMapping and Texturing
 
-http://www.3drender.com/light/compositing/index.html 3D Compositing
-http://racer445.com/ : Intro to texture concepts and normal mapping
-http://cgtextures.com/ : Best free texture resource
-http://features.cgsociety.org/story_custom.php?story_id=4678 : Introduction to texture concepts
-http://www.grungetextures.com/gallery/
-http://www.absolutecross.com/graphics/textures/
-http://www.psbrushes.net/ : Brushes can be used to create textures
-http://www.photoshopbrushes.com/
-http://www.smashingapps.com/2009/01/26/31-most-colorful-collection-of-high-quality-texture-packs.htm
-http://www.creativecrash.com/3dsmax/downloads/shaders/c/
-http://www.creativecrash.com/maya/downloads/shaders/c/
-http://www.creativecrash.com/downloads/3d-textures/c/
-http://cg.tutsplus.com/tutorials/texturing-a-human-face-day-1-the-uvw-unwrap/ : UV Unwrapping in Max
-http://download.autodesk.com/media/3dsmax/peltmap_max8_380k.mov : Demo of pelt unwrap feature in Max
+* http://www.3drender.com/light/compositing/index.html 3D Compositing
+* http://racer445.com/ : Intro to texture concepts and normal mapping
+* http://cgtextures.com/ : Best free texture resource
+* http://features.cgsociety.org/story_custom.php?story_id=4678 : Introduction to texture concepts
+* http://www.grungetextures.com/gallery/
+* http://www.absolutecross.com/graphics/textures/
+* http://www.psbrushes.net/ : Brushes can be used to create textures
+* http://www.photoshopbrushes.com/
+* http://www.smashingapps.com/2009/01/26/31-most-colorful-collection-of-high-quality-texture-packs.htm
+* http://www.creativecrash.com/3dsmax/downloads/shaders/c/
+* http://www.creativecrash.com/maya/downloads/shaders/c/
+* http://www.creativecrash.com/downloads/3d-textures/c/
+* http://cg.tutsplus.com/tutorials/texturing-a-human-face-day-1-the-uvw-unwrap/ : UV Unwrapping in Max
+* http://download.autodesk.com/media/3dsmax/peltmap_max8_380k.mov : Demo of pelt unwrap feature in Max
 
-SERVICE BUREAUS
-Shapeways
-Sculpteo
-Ponoko
-i.materialise
-FILE REPOSITORIES
-Thingiverse
+## VENDOR SERVICES
+* Shapeways
+* Sculpteo
+* Ponoko
+* i.materialise
 
+## FILE REPOSITORIES
+* Thingiverse
+* Github
 
-
-### Inspiration
+### INSPIRATION
 
 #### [Nervous system – generative design studio](https://n-e-r-v-o-u-s.com/)
 
@@ -224,112 +208,4 @@ Thingiverse
 science, art, and technology. Drawing inspiration from natural phenomena, 
 we create computer simulations to generate designs and use digital fabrication to realize products.*
 
-<img src="https://n-e-r-v-o-u-s.com/shop/images/12/340/IMGP1439_xlarge.jpg" width="200" height="200"></img>
 <img src="https://n-e-r-v-o-u-s.com/shop/images/5/92/cc08s_morph_bangle_silver_whiteBG_large.jpg" width="200" height="200"></img>
-
----
-list from https://ericaisringhaus.com/
-
-FloriDada by Animal Collective
-BTS The Chemical Brothers Wide Open
-Azealiea Banks Music Video
-kidwaste more colors
-SOLIPSIST
-FX for approval,
-Stuck Together by Martina Menegon
-3D MODELING AND PRINTING ARTISTS
-Sophie Kahn
-Oliver Laric
-Kenya (Robinson) – #whitemaninmypocket
-ARTISTS AND THEORIST
-Kara Walker
-Doreen Garner
-Kenya (Robinson) – #whitemaninmypocket
-Nam June Paik
-Pipilotti Rist- background, Ever Is Over All, Pipilotti and Beyonce, Sip My Ocean
-Jim Campbell
-Wolf Vostell
-Andy Warhol – Outer and Inner Space
-Bill  Viola
-David Hall
-Richard Serra
-Tony Oursler
-Rachel Rossin
-George Jene
-Heather Hart
-Peter Burr
-Sabrina Ratte
-
-Rosa Menkman –Glitch Studies Manifesto, Glitch Moment(um),
-.                             Vernacular of File Formats, iRD, Transfer Gallery Page
-Hito Steyerl – Research Center for Proxy Politics – How Not to be Seen…
-– Factory of the Sun
-AES+F
-Ed Atkins
-Meriem Bennani – exploded visions, Art 21
-Jennifer and Kevin McCoy – Dream Sequence
-Ian Cheng site –  Emissaries
-Oliver Laric
-Marina Zurkow
-Jorge Orta
-Rafael Lozano-Hemmer
-Jim Campbell
-Woody Vasulka – Artifacts
-Ilya Kabakov
-Perry Hoberman
-Jake and Dinos Chapman
-Anne Hamilton
-Helio Oiticica
-Barbara Kruger
-Paul Vanouse
-HC Gilje
-Richard Long
-Gary Hill
-Bill Viola
-Mike Kelley
-Ben Rubin, Mark Hansen
-Jeffrey Shaw
-David Rokeby
-Camille Utterback
-Jim Campbell
-Carolee Schneemann
-Ken Feingold
-Knowbotic Research
-Michael Naimark
-Simon Penny
-Tamàs Waliczky
-Ólafur Elíasson
-Janet Cardiff
-James Turrell
-Robert Irwin
-Robert Smithson
-Mariko Mori
-Jennifer Pastor
-Vito Acconci
-Alan Kaprow
-Stelarc
-Lynn Hershman
-Peter Weibel
-Vallie Export
-Chris Burden
-Marina Abramovic
-Hermann Nitsch
-Robert Gober
-Jean Tinguely
-Dan Graham
-Pierre Huyghe
-Andrea Zittel
-Char Davies
-CLUI
-SymbioticA
-The Yes Men
-Wim Delvoye
-Thomson & Craighead
-Bruce Nauman
-Bill Seaman
-Masaki Fujihata
-George Legrady
-Survival Research Lab
-Gordon Matta-Clark
-Thomas Hirschorn
-Ted Victoria
