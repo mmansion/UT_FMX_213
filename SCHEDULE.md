@@ -12,7 +12,7 @@ Schedule and dates subject to change. Check back often.
 | <sub>Introductions</sub>    | <sub>Dimensioning Objects</sub> |
 | <sub>Course Overview</sub>  | <sub>Starting from 2D Sketches</sub> |
 |  | <sub>Intro to Fusion 360</sub>   |
-|  | `P1` Project 1 - Found Objects |
+|  | <sub>`P1` Project 1 - Found Objects</sub> |
 
 ---
 ## Week 2
@@ -20,8 +20,7 @@ Schedule and dates subject to change. Check back often.
 | Tuesday 1/28 | Thursday 1/30 |
 | :---     | ------   |
 | <sub> `P1` Bring x3 Found Objects </sub> | <sub> Intro to UT Fab Lab</sub>|
-| <sub> Intro to 3D Printing </sub> | <sub>|  |
-| <sub> Modeling in Fusion 360 </sub>| |
+| <sub> Modeling for 3D Printing (Illustrator to Fusion Workflow) </sub> | <sub> Intro to Ultimaker Printers & Cura Software |
 
 
 ---
@@ -29,18 +28,16 @@ Schedule and dates subject to change. Check back often.
 
 | Tuesday 2/4 | Thursday 2/6 |
 | :---     | ------   |
-| <sub>Project 1 - Due, Critique</sub>   | <sub>Modeling in Fusion 360</sub> |
-| <sub> Ske
-| <sub>Project 2 - Assigned |
-
+| <sub> Intro to Sketching in Fusion 360 </sub> |  <sub> Intro to Sketching in Fusion 360 </sub> |
+| <sub> `p1` Studio work time </sub> | <sub> `p1` Studio work time </sub> |
 
 
 ---
 ## Week 4 (2020.02.10)
-### Tue, 2/11
-### Thu, 2/13
 
-* Project 1
+| Tuesday 2/11 | Thursday 2/13 |
+| :---     | ------   |
+| <sub> `p1` Proejct 1 Due / Critique</sub> |  |
 
 ---
 
