@@ -19,7 +19,10 @@
 
   * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
   * [Fab Lab Open Access Google Calendar](https://calendar.google.com/calendar/b/1/r?cid=MTE0ZmFibGFiQGdtYWlsLmNvbQ)
-  * 
+  * For futher questions contact FabLab Coordinator
+    * Emma Quintana, MFA, MEd
+    * equintana@ut.edu
+    * (819) 257-3862
   
 
 * ### Cass Lab Cage
