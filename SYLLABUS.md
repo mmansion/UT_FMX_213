@@ -42,12 +42,14 @@ of media. Students will complete 3 projects. Some classes will be designated as 
 days, giving students time to work on their projects. Students will be required to attend
 lab days.
 
-## Course Schedule
+## Course Schedule & Class Resources
 
-The course schedule is located at :
-https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
+### [Course Schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md)
+* This is a dynamic course that we will adapt and amend at times to improve the overall learning experience. This means the schedule will change and should be checked regularly!
 
-This is a dynamic course that we will adapt and amend at times to improve the overall learning experience. This means the schedule will change and should be checked regularly!
+### [Class Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md)
+* This is an ongoing list of resources. It will be updated regularly. 
+
 
 ## Required Materials
 
@@ -113,8 +115,9 @@ personal appointments are not valid reasons for excused absences.
 ```
 
 
-## Materials & Tools
 ## Course Resources
+
+
 ## Course Schedule
 ## Course Statements
 
