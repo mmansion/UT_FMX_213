@@ -42,6 +42,8 @@ of media. Students will complete 3 projects. Some classes will be designated as 
 days, giving students time to work on their projects. Students will be required to attend
 lab days.
 
+---
+
 ## Course Schedule & Class Resources
 
 ### [Course Schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md)
@@ -50,6 +52,7 @@ lab days.
 ### [Class Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md)
 * This is an ongoing list of resources. It will be updated regularly. 
 
+---
 
 ## Required Materials
 
@@ -64,12 +67,16 @@ Your materials will largely depend on their proposed projects, however a few thi
 * Flash drive/ external hard drive (128G+)
 * 3 Button Mouse
 
+---
+
 ## Activities & Projects
 
 This is a summary of our projects and activites. More details will be provided in the course schedulle
 * 
 
-## Participating & Assessment
+---
+
+## Participation & Assessment
 
 ### Attendance
 This is a performance-based class, and interaction with peers and the professor cannot
@@ -88,12 +95,6 @@ prepared for class, or failing to fully participate in class, will count as an a
 | <sub>6 Absenses</sub>  | <sub>30 points subtracted from final course grade</sub> |
 | <sub>7 Absenses+</sub> | <sub>Automatic Failure. No Exceptions</sub> |
 
-
-```
-It is the responsibility of the student to initiate and maintain communication with the
-professor in case of an unusual circumstance. Absenses can beIf you are absent it is your responsibility to determine what you missed and coordinate with your classmates to make up the work.
-```
-
 * #### Excused Absences
 
   * Excused absences include:
@@ -106,17 +107,26 @@ professor in case of an unusual circumstance. Absenses can beIf you are absent i
     * Requirements of military service
     * Unforeseen emergencies such as illness, injury, hospitalization, deaths in the immediate family, consequences of severe weather and other crises.
 
+* <sub>Students should contact instructors as soon as possible in these cases.</sub>
+* <sub>Instructors may require documentation or verification to excuse unscheduled absences.</sub>
+* <sub>Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences.</sub>
+* <sub> It is the responsibility of the student to initiate and maintain communication with the
+professor in case of an unusual circumstance.<sub>
+* <sub> It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.</sub>
 ```
-Students should contact instructors as soon as possible in these cases.
-Instructors may require documentation or verification to excuse unscheduled
-absences.
-** Employment schedules, athletic conditioning and practice schedules and
-personal appointments are not valid reasons for excused absences. 
-```
+
+### Critique
+
+Critique is a critical component of the course and work will not be graded if it is not
+presented at critique.You must arrive on time to critique and be prepared to present,
+with your work finished and installed by the start of class. If you are not prepared for
+critique, you will not present your work and your work will not be graded. 
+
+### Grading
 
 
-## Course Resources
 
+---
 
 ## Course Schedule
 ## Course Statements
