@@ -10,7 +10,7 @@ All class resources are linked here. If you find something relevant or inspiring
 ## CAMPUS RESOURCES
 
 
-* UT Fab Lab 
+* ### UT Fab Lab 
  * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
 
 * ### Cass Lab Cage
@@ -20,10 +20,15 @@ All class resources are linked here. If you find something relevant or inspiring
     * 10am-8pm Friday
     * 12-3pm Saturday & Sunday
 
+
+    * The Cage will be closed during:
+      - Spring Break: Saturday 3/7/19 - Sunday 3/15/20. 
+        It is possible to reserve equipment over the Spring Break period. 
+        You must reserve your equipment to be collected on Friday, 3/6/20 and return it on Monday, 3/16/20. 
+      - During the last week of the semester, with no checkouts or reservations during exam week. 
+        All equipment must be returned no later than : Monday, 5/4/20
+
   * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage. 
-  * The Cage will be closed for the following days during the Spring 2020 semester: 
-   * Spring Break: Saturday 3/7/19 - Sunday 3/15/20 It is possible to reserve equipment over the Spring Break period. You must reserve your equipment to be collected on Friday, 3/6/20 and return it on Monday, 3/16/20. 
-   * Last week of the semester: No checkouts or reservations will be allowed during the last week of the semester (exam week).    * All equipment must be returned no later than : Monday, 5/4/20
 
 
 ## SOFTWARE & TOOLS
