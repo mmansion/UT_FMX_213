@@ -1,6 +1,6 @@
-## FMX 213 - 3D Modeling and Design for Fabrication
+## COURSE RESOURCES 
 
-### CLASS RESOURCES
+### FMX 213 - 3D Modeling and Design for Fabrication
 
 ---
 
@@ -20,8 +20,8 @@
 ## SOFTWARE & TOOLS
 
 
-* #### Fusion 360
-  * Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
+* #### Autodesk - Fusion 360
+  * Fusion 360 is a versatile CAD tool by Autodesk that is excellent for small to medium-sized fabrication projects. Although it has many uses, we will primarily be explorings its 3D modeling and rendering capabilities. This application is available in the CAS computer labs, and because the application is a hybrid cloud/desktop application, **everone will need to create their own Fusion 360 account online**.
   * [Free Student Sign Up](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
   * [Lynda.com - Fusion 360 Essential Training (Free for UT Studens - See Mikhail for Details)](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
