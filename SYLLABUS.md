@@ -205,9 +205,9 @@ any course materials as necessary.
      * Tropical Weather www.ut.edu/weather
      * Safe Escort Service
  #### LASER TEAM
-    * On campus x4515
-    * Off Campus or cell phone: (813) 257-4515
-    * Campus Safety Office
-      * Maureen A. Daly Innovation and Collaboration
-       Building (first floor, right behind the Thomas parking garage)
+   * On campus x4515
+   * Off Campus or cell phone: (813) 257-4515
+   * Campus Safety Office
+     * Maureen A. Daly Innovation and Collaboration
+      Building (first floor, right behind the Thomas parking garage)
 
