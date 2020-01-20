@@ -2,6 +2,8 @@
 
 ### FMX 213 - 3D Modeling and Design for Fabrication
 
+All class resources are linked here. If you find something relevant or inspiring you think we should add, shoot an email to mmansion@ut.edu. 
+
 ---
 
 
@@ -12,11 +14,17 @@
  * [UT Fab Lab Handbook](https://drive.google.com/open?id=0B1Zs29ohFpIgTGxIdDBjMElESlF1Q1lOTHlIaldiOUxqWjVr)
 
 * ### Cass Lab Cage
-  * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage
+
   * **Cage Hours of Operation**:
     * 8am-10pm Monday-Thursday
     * 10am-8pm Friday
     * 12-3pm Saturday & Sunday
+
+  * `IMPORTANT` You [must be registered here](https://docs.google.com/forms/d/e/1FAIpQLSfCaOgnGl64iKd4QC2o_JnODB6UMUoE0fcGozTgkR7yCFyRjA/viewform) before checking out any items from the cage. 
+  * The Cage will be closed for the following days during the Spring 2020 semester: 
+   * Spring Break: Saturday 3/7/19 - Sunday 3/15/20 It is possible to reserve equipment over the Spring Break period. You must reserve your equipment to be collected on Friday, 3/6/20 and return it on Monday, 3/16/20. 
+   * Last week of the semester: No checkouts or reservations will be allowed during the last week of the semester (exam week).    * All equipment must be returned no later than : Monday, 5/4/20
+
 
 ## SOFTWARE & TOOLS
 
@@ -29,11 +37,10 @@
 * #### [MeshMixer](http://www.meshmixer.com/)
   * Meshmixer is a free tool for working with mesh models. It is great for mashing together existing meshes and also for preparing files for printing or fabrication. Mesh mixer is an organic modeling tool. 
 
-
 * [Finishing & Post Processing](https://makezine.com/projects/make-34/skill-builder-finishing-and-post-processing-your-3d-printed-objects)
 
 * UDEMY
-* https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/
+* 
 
 
 https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/151814-2.html
@@ -51,20 +58,14 @@ https://www.lynda.com/3D-Animation-Prototyping-tutorials/Up-Running-3D-Printing/
 
 - TO BE ANNOUNCED
 
-- RESOURCES
+## ONLINE LEARNING RESOURCES
 
+* ### Fusion 360 
+ * [Fusion 360 - Essential Training](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html) 
+ * [Fusion 360 - Making a 3D Printed Product Enclosure](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-3D-Printed-Product-Enclosure/642471-2.html)
+ * [Fusion 360 - Design for Additive Manufacturing](https://www.lynda.com/Fusion-360-tutorials/Design-Additive-Manufacturing-FDM/609006-2.html)
+ * [2D Sketching in Fusion 360](https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/)
 
-
-The Cage will be closed for the following days during the Spring 2019 semester:
-Gasparilla Parade: Saturday 1/26/19
-Spring Break: Saturday 3/9/19-Sunday 3/17/19
-It is possible to reserve equipment over the Spring Break period. You must reserve your equipment to be collected on Friday, 3/8/19 and return it on Monday, 3/18/19.
-Last week of the semester:
-No checkouts or reservations will be allowed during the last week of the semester (exam week).
-All equipment must be returned no later than:Monday, 5/6/19
-
-
-Resources are located here. If you find something helpful or just cool that you think should be added, send it to eisringhaus@ut.edu and I will add it.
 
 It is STRONGLY recommended that you get a Hillsborough County Library card so that you can access Lynda.com tutorials, you can apply online at:
 https://www.hcplc.org/account/get-a-card
