@@ -135,10 +135,118 @@ See [course schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDUL
 
 ---
 
-## Course Schedule
 ## Course Statements
 
+### ACADEMIC INTEGRITY
+Academic Integrity Statement: Cheating, plagiarism, copying and any other
+behavior that is contrary to University standards of behavior will not be tolerated.
+Students caught violating any aspect of the University of Tampa’s Academic Integrity
+Policy will be penalized in all cases. Penalty ranges from “0” on an assignment to “F” for
+the course without regard to a student’s accumulated points. Students may also face
+expulsion. It is the student’s responsibility to become familiar with the policies of the
+university regarding academic integrity and to avoid violating such policies. Policy
+information is found at Academic Integrity Policy . 1
+You must properly document all sources used both in bibliographic format and through
+proper citation within the text itself. Failure to provide proper citations within the text
+of any assignment that you submit is plagiarism and will be reported. This DOES
+NOT JUST APPLY to research papers. It also means that you need to identify
+where data was obtained when it is presented.
+
+### CLASS DISRUPTION STATEMENT
+Disruption policy: Every student has the right to a comfortable learning environment
+where the open and honest exchange of ideas may freely occur. Each student is
+expected to do his or her part to ensure that the classroom (and anywhere else the
+class may meet) remains conducive to learning. This includes respectful and courteous
+treatment of all in the classroom. According to the terms of the University of Tampa
+Disruption Policy, the professor will take immediate action when inappropriate behavior
+occurs. Details of the policy may be found at Disruption of the Academic Process.
+
+* http://ut.smartcatalogiq.com/en/current/catalog/Academic-Policies-and-Procedures/Academic-Integrity- 1 Policy
+ http://ut.smartcatalogiq.com/en/current/catalog/Academic-Policies-and-Procedures/Disruption-of-the- 2
+
+FMX 213-F
+
+### DISCRIMINATION PREVENTION
+The University of Tampa is committed to providing an environment free from
+discrimination based on sex and provides a number of resources and services to assist
+students, faculty and staff in addressing issues involving sex discrimination, including
+sexual violence. UT Faculty are required to report any reported or perceived instances
+of sexual harassment/misconduct to the Dean of Students. Students should also be
+encouraged to report alleged misconduct to either the Dean of Students or the Office of
+Conduct and Orientation. Title IX of the Education Amendments of 1972 protects
+individuals from discrimination based on sex in any educational program or activity
+operated by recipients of federal financial assistance. Sexual harassment, which
+includes acts of sexual violence, is a form of sex discrimination prohibited by Title IX.
+REPORTING SEXUAL VIOLENCE/ TITLE IX MATTERS
+Sexual violence includes nonconsensual sexual contact and nonconsensual sexual
+intercourse (which is any type of sexual contact without your explicit consent, including
+rape), dating violence, sexual harassment, sexual exploitation, domestic violence, and
+stalking. You may reach out for confidential help (see contact info below) or report an
+incident for investigation.
+If you choose to write or speak about an incident of sexual violence and disclose that
+this violence occurred while you were a UT student, the instructor is obligated to report
+the incident to the Title IX Deputy Coordinator for Students. The purpose of this report
+is to provide a safe and nondiscriminatory environment for all students. The Deputy
+Coordinator or his or her designee will contact you to let you know about the resources,
+accommodations, and support services at UT and possibilities for holding the
+perpetrator accountable. If you do not want the Title IX Coordinator notified, instead of
+disclosing this information to your instructor, you can speak confidentially with the
+individuals listed below. They can connect you with support services and discuss
+options for holding the perpetrator accountable.
+There is an exception to this required reporting for preventative education programs and
+public awareness events or forums. While the instructor is not required to report
+disclosures during these instances, unless you make or initiate a complaint, during
+these programs or events, the instructor or another University official will ensure that the
+students are aware of the available resources at UT, such as counseling, health, and
+mental health services, and it will provide information about Title IX, how to file a Title IX
+complaint, how to make a confidential report, and the procedure for reporting sexual
+violence.
+For more information, see The University of Tampa’s Title IX webpage and the 3
+ http://www.ut.edu/titleix/ 3
+7 of 9
+FMX 213-F
+Student Services Title IX and Sexual Misconduct Procedures webpage. 4
+To make a confidential report of sexual violence, please contact:
+• The Victim’s Advocacy Hotline: (victimadvocacy@ut.edu) (813) 257-3900.
+• Dickey Health & Wellness Center (wellness@ut.edu) (813) 257-1877. • Health and Counseling Center (healthcenter@ut.edu) (813) 253-6250
+
+### ADA STATEMENT
+Students with disabilities: If there is a student who requires accommodations
+because of any disability, please go to the Academic Success Center in North Walker
+Hall for information regarding registering as a student with a disability. You may also call
+(813) 257- 5757 or email disability.services@ut.edu. Please feel free to discuss this
+issue with me, in private, if you need more information.
+
+### CAMPUS CLOSURE STATEMENT
+Course interruption due to adverse conditions: In case of any adverse condition or
+situation which could interrupt the schedule of classes, each student is asked to access
+[UT Homepage](https://www.ut.edu/) for information about the status of the campus and class meetings. In 5
+addition, please refer to [UT Blackboard](https://utampa.okta.com/) for announcements and other important 6
+information. You are responsible for accessing this information. 
 
 
+### CAMPUS SAFTY
+* http://www.ut.edu/safety/
+* General Disclaimer
+* Note: The professor reserves the right to make changes to this syllabus, schedule, and
+any course materials as necessary.
 
+#### IN CASE OF EMERGENCY IN CASS
+ * The Cass Building is 611 UT University Drive.
+ * The Cass Annex is 607 UT McNeel Court
+ * Campus Safety
+ * Phone Numbers: 
+   * On Campus: x7777
+   * Off Campus or by cell phone: (813) 257-7777
+   * Life-Threatening Situations:
+    * Call 911 and then call Campus Safety
+    * Safety Alerts www.ut.edu/alert
+    * Tropical Weather www.ut.edu/weather
+    * Safe Escort Service
+#### (LASER TEAM)
+    * On campus x4515
+    * Off Campus or cell phone: (813) 257-4515
+    * Campus Safety Office
+      * Maureen A. Daly Innovation and Collaboration
+      Building (first floor, right behind the Thomas parking garage)
 
