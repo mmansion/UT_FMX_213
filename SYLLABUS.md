@@ -24,6 +24,14 @@ Humans are the only species on earth with the ability to completely reshape the 
 In this studio production class, we will focus on designing and modeling 3D objects for fabrication. We will explore workflows that allow you to take sketches, photographs and scans into a 3D environment, and then edit those designs order to manufacture them using 3D printers, and related fabrication hardware. We will also explore methods of texturing, lighting and rendering design concepts in order to create photo-realistic (or even abstract/artistic) representations of designs for purposes of documentation, visual communication, or even as part of other creative workflows.
 
 ## Aims & Objectives
+
+Aims 
+* Explore how artists, designers and engineers are leveraging modern fabrication tools in their practice
+* 
+
+* Explore various applications for 3D printing
+& 3D Modeling and Design
+
 ## Projects & Activities
 ## Grading Policy
 ## Materials & Tools
@@ -248,6 +256,7 @@ http://www.creativecrash.com/maya/downloads/shaders/c/
 http://www.creativecrash.com/downloads/3d-textures/c/
 http://cg.tutsplus.com/tutorials/texturing-a-human-face-day-1-the-uvw-unwrap/ : UV Unwrapping in Max
 http://download.autodesk.com/media/3dsmax/peltmap_max8_380k.mov : Demo of pelt unwrap feature in Max
+
 SERVICE BUREAUS
 Shapeways
 Sculpteo
@@ -255,4 +264,3 @@ Ponoko
 i.materialise
 FILE REPOSITORIES
 Thingiverse
-……Open to suggestions! I’m trying to get links for everyone but I’m tired.
