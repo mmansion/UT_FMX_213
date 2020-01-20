@@ -106,9 +106,7 @@ prepared for class, or failing to fully participate in class, will count as an a
     * Observation of religious holy days
     * Requirements of military service
     * Unforeseen emergencies such as illness, injury, hospitalization, deaths in the immediate family, consequences of severe weather and other crises.
-
-<sub>Students should contact instructors as soon as possible in these cases.</sub><br><sub>Instructors may require documentation or verification to excuse unscheduled absences.</sub><br><sub>Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences.</sub><br><sub> It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance</sub><sub> It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.</sub>
-```
+    * <sub>Students should contact instructors as soon as possible in these cases.</sub><br><sub>Instructors may require documentation or verification to excuse unscheduled absences.</sub><br><sub>Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences.</sub><br><sub> It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance</sub><sub> It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.</sub>
 
 ### Critique
 
@@ -119,7 +117,14 @@ critique, you will not present your work and your work will not be graded.
 
 ### Grading
 
-
+| Overall Grades  | |
+| :---   | -------------   |
+| <sub> Project 1 - Remaking Found Objects </sub>          | <sub>10%</sub>  |
+| <sub> Project 2 - Designing Everyday Things </sub>       | <sub>10%</sub>  |
+| <sub> Project 3 - Nature Inspired Designs   </sub>       | <sub>10%</sub>  |
+| <sub> Project 4 - Real Objects in Virtual Spaces </sub>  | <sub>10%</sub>  |
+| <sub> Project 5 - Object-Based Storytelling </sub>       | <sub>10%</sub>  |
+| <sub> Class Participation &  Assignemnts                 | <sub>50%</sub>  |
 
 ---
 
