@@ -99,7 +99,8 @@ prepared for class, or failing to fully participate in class, will count as an a
     * Observation of religious holy days
     * Requirements of military service
     * Unforeseen emergencies such as illness, injury, hospitalization, deaths in the immediate family, consequences of severe weather and other crises.
-    * <sub>Students should contact instructors as soon as possible in these cases.</sub><br><sub>Instructors may require documentation or verification to excuse unscheduled absences.</sub><br><sub>Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences.</sub><br><sub> It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance</sub><sub> It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.</sub>
+
+    * ```Students should contact instructors as soon as possible in these cases. Instructors may require documentation or verification to excuse unscheduled absences. Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences. It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance. It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.```
 
 ### Critique
 
@@ -137,13 +138,13 @@ See [assingments](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
 | :---   | -------------   |-------------   |
 | **A** | <sub>Outstanding - 4.0 Honor Points</sub> | <sub>Greater commitment than just active participation, regular attendance, execution of meaningful projects beyond those required by the instructor, and high grades on any tests or projects given etc. </sub> |
 | **AB**| <sub>Excellent - 3.5 Honor Points </sub> | |
-| **B** | <sub>3.0 Honor Points</sub> |<sub>Very good (But not outstanding performance) with good attendance, active participation, completion of all required work with high grades)</sub> | 
+| **B** | <sub>3.0 Honor Points</sub> | <sub>Very good (But not outstanding performance) with good attendance, active participation, completion of all required work with high grades)</sub> | 
 | **B** | <sub>Good - 2.5 Honor Points</sub> | |
 | **C** | <sub>Average - 2.0 Honor Points</sub> | <sub>Acceptable performance, good attendance, reasonable involvement, completion of all projects</sub> |
-| **CD** | Below Average - 1.5 Honor Point |  |
+| **CD** | <sub>Below Average - 1.5 Honor Point</sub> |  |
 | **D** | <sub>Passing (unsatisfactory) - 1.0 Honor Point </sub> | <sub>Irregular attendance, poor performance, incomplete work, minimal involvement</sub> |
-| **F** | Failure - No Honor Point | |
-| **NF** | <sub> No Show, Failure - No Honor Point </sub> | <sub> For students who stopped participating before the last withdrawal date</sub> |
+| **F** | <sub>Failure - No Honor Point</sub> | |
+| **NF** | <sub>No Show, Failure - No Honor Point </sub> | <sub> For students who stopped participating before the last withdrawal date</sub> |
  
 
 
