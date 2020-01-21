@@ -13,10 +13,19 @@ In this assignment we will explore modeling objects from real life in accurate d
 ---
 ## Project 2
 
+Designing everyday things
 
+---
+## Project 3
+
+Nature Inspired Design
 
 ---
 ## Project 4
 
+Virtual Objects
+
 ---
 ## Project 5
+
+Object-based Storytelling
