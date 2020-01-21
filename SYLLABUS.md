@@ -122,7 +122,7 @@ a rubric to help elucidate what critique in this course actually means.
 
 ### Grading
 
-See [course schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md) for assignment dates.
+See [assingments](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md) for details on course assignments, and the [course schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md) for details about timeframes and due dates.
 
 | Overall Grades  | |
 | :---   | -------------   |
@@ -132,6 +132,26 @@ See [course schedule](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDUL
 | <sub> Project 4 - Real Objects in Virtual Spaces </sub>  | <sub>10%</sub>  |
 | <sub> Project 5 - Object-Based Storytelling </sub>       | <sub>10%</sub>  |
 | <sub> Class Participation &  Assignemnts                 | <sub>50%</sub>  |
+
+| Grades | | |
+| :---   | -------------   |-------------   |
+
+| **A** | <sub>Outstanding - 4.0 Honor Points</sub> | <sub>Greater commitment than just active participation, regular
+attendance, execution of meaningful projects beyond those required by the instructor, and high grades on any tests
+or projects given etc. </sub> |
+| **AB**| <sub>Excellent - 3.5 Honor Points </sub> | |
+| **B** | <sub>3.0 Honor Points</sub> |<sub>Very good (But not outstanding performance) with good attendance, active participation, completion of all required work with high grades)</sub> | 
+| **B** | <sub>Good - 2.5 Honor Points</sub> | |
+| **C** | <sub>Average - 2.0 Honor Points</sub> | <sub>Acceptable performance, good attendance, reasonable
+involvement, completion of all projects</sub> |
+| **CD** | Below Average - 1.5 Honor Point |  |
+| **D** | <sub>Passing (unsatisfactory) - 1.0 Honor Point </sub> | <sub>Irregular attendance, poor performance, incomplete work, minimal involvement</sub> |
+| **F** | Failure - No Honor Point | |
+| **NF** | <sub> No Show, Failure - No Honor Point </sub> | <sub> For students who stopped participating before the last withdrawal date</sub> |
+ 
+
+
+
 
 ---
 
@@ -160,7 +180,6 @@ expected to do his or her part to ensure that the classroom (and anywhere else t
 class may meet) remains conducive to learning. This includes respectful and courteous
 treatment of all in the classroom. 
 
-
 ### DISCRIMINATION PREVENTION
 
 The University of Tampa is committed to providing an environment free from
@@ -184,7 +203,6 @@ situation which could interrupt the schedule of classes, each student is asked t
 [UT Homepage](https://www.ut.edu/) for information about the status of the campus and class meetings. In 5
 addition, please refer to [UT Blackboard](https://utampa.okta.com/) for announcements and other important 6
 information. You are responsible for accessing this information. 
-
 
 ### CAMPUS SAFTY
 * http://www.ut.edu/safety/
