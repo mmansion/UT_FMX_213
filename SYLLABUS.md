@@ -1,4 +1,4 @@
-## FMX 213 - 3D Modeling and Design for Fabrication
+## FMX 213 - 3D Modeling for Design and Fabrication
 
 ##### Provisional Syllabus v1.0
 
