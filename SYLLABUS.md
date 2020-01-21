@@ -135,15 +135,11 @@ See [assingments](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
 
 | Grades | | |
 | :---   | -------------   |-------------   |
-
-| **A** | <sub>Outstanding - 4.0 Honor Points</sub> | <sub>Greater commitment than just active participation, regular
-attendance, execution of meaningful projects beyond those required by the instructor, and high grades on any tests
-or projects given etc. </sub> |
+| **A** | <sub>Outstanding - 4.0 Honor Points</sub> | <sub>Greater commitment than just active participation, regular attendance, execution of meaningful projects beyond those required by the instructor, and high grades on any tests or projects given etc. </sub> |
 | **AB**| <sub>Excellent - 3.5 Honor Points </sub> | |
 | **B** | <sub>3.0 Honor Points</sub> |<sub>Very good (But not outstanding performance) with good attendance, active participation, completion of all required work with high grades)</sub> | 
 | **B** | <sub>Good - 2.5 Honor Points</sub> | |
-| **C** | <sub>Average - 2.0 Honor Points</sub> | <sub>Acceptable performance, good attendance, reasonable
-involvement, completion of all projects</sub> |
+| **C** | <sub>Average - 2.0 Honor Points</sub> | <sub>Acceptable performance, good attendance, reasonable involvement, completion of all projects</sub> |
 | **CD** | Below Average - 1.5 Honor Point |  |
 | **D** | <sub>Passing (unsatisfactory) - 1.0 Honor Point </sub> | <sub>Irregular attendance, poor performance, incomplete work, minimal involvement</sub> |
 | **F** | Failure - No Honor Point | |
