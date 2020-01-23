@@ -19,7 +19,7 @@ Schedule and dates subject to change. Check back often.
 
 | ```ASSIGNMENT - DUE TUE 1/28``` |
 | :---     |
-|**Overview**<br><sub>For next Tuesday, please bring three (3) *SIMPLE* "found objects" to class. We will discuss the merits of these objects, and considered  how they can be modeled and fabricated on a 3D printer. You will select 1 of these objects use in [Project 1](https://ultimaker.com/en/resources/22015-designing-for-printability), which we will discuss in class. The goal will be to dimension, model and then produce an object as a clone that you can hold in your hand. We will compare the results against the original object.<br></sub>|
+|**Overview**<br><sub>For next Tuesday, please bring three (3) *SIMPLE* "found objects" to class. We will discuss the merits of these objects, and considered  how they can be modeled and fabricated on a 3D printer. You will select 1 of these objects use in Project 1, which we will discuss in class. The goal will be to dimension, model and then produce an object as a clone that you can hold in your hand. We will compare the results against the original object.<br></sub>|
 |**Tips for selecting objects**<br><sub>- Choose objects that are simple in form, and can be modeled as one solid object.</sub><br><sub>- Avoid things that need to be produced in parts as much as possible (ok, if you want a challenge!)</sub> <br><sub>- Consider simple handheld tools, decroative items, jewelry, or functional items like bottles and cups</sub><br> <sub>- Try to keep the size of your found object to a printable size (at 1:1 ratio) that doesn't require scaling. (150mm<sup>3</sup> / 6"<sup>3)</sup></sub>|
 
 ---
