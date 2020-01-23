@@ -26,14 +26,22 @@ In this studio/performance-oriented class, we will focus on designing and modeli
 
 ## Aims & Objectives
 
-By the end of this course you should be familiar with artists, designers and engineers leveraging modern fabrication tools in their practice, and be able to apply basic 3D modling, rendering and fabrication techniques in your own work.
+By the end of this course you should be familiar with how artists and designers are leveraging modern design/fabrication tools in their practice, and be able to apply basic 3D modling, rendering and fabrication techniques in your own work.
 
 👀 **This course we will explore:** 
 * How to Model Objects in 3D
 * Fabrication of Objects using 3D Printers
 * Texturing, Lighting & Rendering
 
-A lecture or demonstration will usually begin each class period, of which students are
+**We will utilize these softwares**
+
+* Fusion 360 for modeling objects for fabrication
+* Meshmixer - for experimenting with organic design
+* Cinema4D (or Maya) - for modeling objects for animation
+* Adobe CC - supporting tools in our process
+* Unity - introduction (for visualizing 3D designs interactively)
+
+A lecture or demonstration will typically begin each class period, of which students are
 encourage to take notes. Demos may be reviewed later in the class or briefly at the
 beginning of the next class. Although the projects are diverse in design and content,
 they are designed to progressively build skills and ideas. All projects are designed to
@@ -57,13 +65,15 @@ lab days.
 ## Required Materials
 
 * Personal laptop capable of running course software / access to computer lab
-* Fusion 360 by Autodesk <sub>([see course resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md))</sub>
-* Adobe CC: Primarily Photoshop and Illustrator
-* MeshMixer <sub>([see course resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md))</sub>
+* Fusion 360 Account <sub>([see course resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md))</sub>
 * A sketchbook / journal
 * A process blog
 * Flash drive/ external hard drive (128G+)
 * 3 Button Mouse
+
+### Also:
+
+* Imagination, Curiosity and Patience!
 
 ---
 
