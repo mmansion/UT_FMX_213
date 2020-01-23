@@ -7,12 +7,15 @@ Schedule and dates subject to change. Check back often.
 ---
 ## Week 1
 
-| Tuesday 1/21 | Thursday 1/23 |
-| :---     | ------   |
-| <sub>Introductions</sub>    | <sub>Dimensioning Objects</sub> |
-| <sub>Course Overview</sub>  | <sub>Starting from 2D Sketches</sub> |
-|  | <sub>Intro to Fusion 360</sub>   |
-|  | <sub>`P1` - Begin Project 1 : Found Objects</sub> |
+**Tuesday 1/21** 
+* Introductions
+* Course Overview
+
+**Thursday 1/23**
+* Intro to Fusion 360
+* Dimensioning Objects
+* 2D Sketching for 3D Modeling
+
 
 ---
 ## Week 2
