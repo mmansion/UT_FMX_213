@@ -25,11 +25,14 @@ Schedule and dates subject to change. Check back often.
 ---
 ## Week 2
 
-| Tuesday 1/28 | Thursday 1/30 |
-| :---     | ------   |
-| <sub> `P1` Bring x3 Found Objects </sub> | <sub> Intro to UT Fab Lab</sub> |
-| <sub> Assessing designs for 3D Printing </sub> | <sub> Intro to Ultimaker Printers & Cura Software |
-| <sub> 3D Modeling - Illustrator to Fusion Workflow </sub> |  |
+**Tuesday 1/28**
+* Bring 3 Found Objects to class, discuss
+* Assessing design for 3D printing
+* In-Class 3D Modeling Time
+
+**Thursday 1/30**
+* ```IMPORTANT``` - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
+* Intro to Fab Lab, 3D Printers, Cura Software
 
 
 ---
