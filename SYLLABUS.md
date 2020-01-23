@@ -138,12 +138,12 @@ See [assingments](https://github.com/mmansion/UT_FMX_213/blob/master/SCHEDULE.md
 
 | Overall Grades  | |
 | :---   | -------------   |
-| <sub> Project 1 - Remaking Found Objects </sub>          | <sub>10%</sub>  |
-| <sub> Project 2 - Designing Everyday Things </sub>       | <sub>10%</sub>  |
-| <sub> Project 3 - Nature Inspired Designs   </sub>       | <sub>10%</sub>  |
-| <sub> Project 4 - Real Objects in Virtual Spaces </sub>  | <sub>10%</sub>  |
-| <sub> Project 5 - Object-Based Storytelling </sub>       | <sub>10%</sub>  |
-| <sub> Class Participation &  Assignemnts                 | <sub>50%</sub>  |
+| <sub> Project 1 | <sub>10%</sub>  |
+| <sub> Project 2 | <sub>10%</sub>  |
+| <sub> Project 3 | <sub>10%</sub>  |
+| <sub> Project 4 | <sub>10%</sub>  |
+| <sub> Project 5 | <sub>10%</sub>  |
+| <sub> Class Participation &  Assignemnts  | <sub>50%</sub>  |
 
 | Grades | | |
 | :---   | -------------   |-------------   |
