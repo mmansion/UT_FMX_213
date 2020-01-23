@@ -38,11 +38,12 @@ Schedule and dates subject to change. Check back often.
 ---
 ## Week 3 
 
-| Tuesday 2/4 | Thursday 2/6 |
-| :---     | ------   |
-| <sub> Intro to Sketching in Fusion 360 </sub> |  <sub> Intro to Sketching in Fusion 360 </sub> |
-| <sub> `p1` Studio work time </sub> | <sub> `p1` Studio work time </sub> |
+**Tuesday 2/4** 
+* Project 1 - Work time
 
+**Thursday 2/6**
+* Project 1 - Work time
+* 3D Printing at Fab Lab
 
 ---
 ## Week 4
