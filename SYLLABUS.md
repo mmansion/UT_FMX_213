@@ -101,6 +101,8 @@ prepared for class, or failing to fully participate in class, will count as an a
 
 * #### Excused Absences
 
+Students should contact instructors as soon as possible in these cases. Instructors may require documentation or verification to excuse unscheduled absences. Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences. It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance. It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.
+
   * Excused absences include:
 
     * Court-imposed legal obligations (e.g., jury duty and subpoenas)
@@ -110,8 +112,6 @@ prepared for class, or failing to fully participate in class, will count as an a
     * Observation of religious holy days
     * Requirements of military service
     * Unforeseen emergencies such as illness, injury, hospitalization, deaths in the immediate family, consequences of severe weather and other crises.
-
-    * ```Students should contact instructors as soon as possible in these cases. Instructors may require documentation or verification to excuse unscheduled absences. Employment schedules, athletic conditioning and practice schedules and personal appointments are not valid reasons for excused absences. It is the responsibility of the student to initiate and maintain communication with the professor in case of an unusual circumstance. It is your responsibility to determine what you missed and coordinate with your classmates to make up the work.```
 
 ### Critique
 
