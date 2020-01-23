@@ -62,6 +62,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
 ## ONLINE LEARNING RESOURCES
 
 * ### Fusion 360 
+  * [Autodesk Design Academny Videos (beginner to advanced)](https://academy.autodesk.com/software/fusion-360)
   * [Fusion 360 - Essential Training](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html) 
   * [Fusion 360 - Making a 3D Printed Product Enclosure](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-3D-Printed-Product-Enclosure/642471-2.html)
   * [Fusion 360 - Design for Additive Manufacturing](https://www.lynda.com/Fusion-360-tutorials/Design-Additive-Manufacturing-FDM/609006-2.html)
