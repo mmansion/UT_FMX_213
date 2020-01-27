@@ -20,7 +20,7 @@ Schedule and dates subject to change. Check back often.
   * *Tips for selecting objects*
     - Choose objects that are simple in form, and can be modeled as one solid object.
     - Avoid things that need to be produced in parts as much as possible (ok, if you want a challenge!)
-    - Consider simple handheld tools, decroative items, jewelry, or functional items like bottles and cups
+    - Consider simple handheld tools, decorative items, jewelry, or functional items like bottles and cups
     - Try to keep the size of your found object to a printable size (at 1:1 ratio) that doesn't require scaling (150mm<sup>3</sup> / 6"<sup>3)
 
 ---
