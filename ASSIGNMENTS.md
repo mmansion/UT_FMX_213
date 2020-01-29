@@ -17,7 +17,7 @@
 | <sub> 4. Fabricating Modeled Objects on 3D Printers</sub> |
 
 
-Look around. Objects are everywhere! In the built-world nearly everything we see, touch or experience is someone's design project OMG 🤯🤯🤯
+Look around. Objects are everywhere. In the built-environment nearly everything we see, touch or experience is someone's design project! 🤯🤯🤯
 
 In this project we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
 
