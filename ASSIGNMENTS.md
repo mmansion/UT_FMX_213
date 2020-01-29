@@ -9,6 +9,14 @@
 
 ### Modeling & Fabricating Found Objects
 
+| <sub>**Skill-building Objectives**</sub> |
+| ---------------- |
+| <sub> 1. Measuring and Dimensioning Objects </sub>   |
+| <sub> 2. Representing 3D Objects using 2D Sketches</sub>   |
+| <sub> 3. Modeling 3D Objects from 2D Sketches</sub>    |
+| <sub> 4. Fabricating Modeled Objects on 3D Printers</sub> |
+
+
 Look around. Objects are everywhere! In the built-world nearly everything we see, touch or experience is someone's design project OMG 🤯🤯🤯
 
 In this project we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
@@ -26,13 +34,6 @@ Finally, we will attempt to fabricate our objects using 3D printers. Beforehand 
 Be sure to document your process throughout this assignment. The end goal is to have a classroom critique, where we compare our 3D fabricated models to the original found objects, and then discuss: 1) what worked; 2) didn't work; and 3) what can be done differently in the future for better results.
 
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/images/pencil.jpg" width="960" height="auto" />
-
-| <sub>**Skill-building Objectives**</sub> |
-| ---------------- |
-| <sub> 1. Measuring and Dimensioning Objects </sub>   |
-| <sub> 2. Representing 3D Objects using 2D Sketches</sub>   |
-| <sub> 3. Modeling 3D Objects from 2D Sketches</sub>    |
-| <sub> 4. Fabricating Modeled Objects on 3D Printers</sub> |
 
 ---
 ## Project 2
