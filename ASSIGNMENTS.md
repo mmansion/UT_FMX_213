@@ -19,7 +19,7 @@
 
 Look around. Objects are everywhere. In the built-environment nearly everything we see, touch or experience is someone's design project! 🤯🤯🤯
 
-In this project we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
+In this assignment we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
 
 Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or smaller. We will bring found objects to class, anddiscuss their qualities and merits for this exercise.
 
