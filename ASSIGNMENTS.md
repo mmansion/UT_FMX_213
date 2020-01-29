@@ -25,13 +25,13 @@ Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or s
 
 Once you've selected your object, you will start measuring and recording its measurements using [calipers](https://en.wikipedia.org/wiki/Calipers). This is the "dimensioning" process.
 
-Once you have the basic dimensions records, you will sketch the object's profiles and outlines in 2-dimensions, considering how the 3D object can be represented with just flat lines or profiles. This will take some practice and we will look at common ways to approach and think about this in class. Beginning with simple line-sketches is a very common way to model 3D objects in the industry.
+Once you have the basic dimensions recorded, you will sketch your object's profiles and outlines in 2-dimensions, using either Illustrator or Fusion 360. You'll need to considering how the 3D object can be represented with just flat lines and profiles. Beginning with simple line-sketches is a very common way to model 3D objects in the industry. This will take some practice and we will look at common ways to approach and think about this in class. 
 
-Once we can represent an object's main features as 2D sketches and outlines, we will transfer our 2D drawings into 3D models by way of extruding and shaping. Using the 3D tools in Fusion 360, you can utilize a number of operations to create the final shape (covered in class). 
+Once we can represent an object's main features as 2D sketches and outlines, we will transfer your 2D drawings into 3D dimensions and models by way of extruding, cutting and otherwise shaping. We will utilize the 3D tools in Fusion 360. There are a number of features we explore to create a final shape. 
 
-Finally, we will attempt to fabricate our objects using 3D printers. Beforehand we will visit the UT Fab Lab, and learn about the capabilities of the 3D printers. We will explore strategies and methods for getting your objects to come out, and learn about what makes an object "printable". Open hours to the labs
+Finally, we will attempt to fabricate our objects using 3D printers. Beforehand we will visit the UT Fab Lab, and learn about the capabilities of the school's 3D printers. We will also explore various strategies and methods for getting your objects to come out successfully, and learn about what makes an object "printable". Visit the [resources page](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md) to get details on Fab Lab hours, location and more.
 
-Be sure to document your process throughout this assignment. The end goal is to have a classroom critique, where we compare our 3D fabricated models to the original found objects, and then discuss: 1) what worked; 2) didn't work; and 3) what can be done differently in the future for better results.
+```IMPORTANT``` - Be sure to document your process throughout this assignment. Our end goal is to have a classroom critique, where we compare our 3D fabricated models to the original found objects, and then discuss: 1) what worked; 2) didn't work; and 3) what can be done differently in the future for better results.
 
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/images/pencil.jpg" width="960" height="auto" />
 
