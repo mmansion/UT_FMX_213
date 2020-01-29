@@ -1,7 +1,7 @@
 # Course Assignments
 
 | TABLE OF CONTENTS |
-| ----------------- |
+| :----------------- |
 | <sub>[Project 1 - Modeling & Printing Found Objects](#project-1)</sub> |
 
 ---
@@ -10,7 +10,7 @@
 ### Modeling & Fabricating Found Objects
 
 | <sub>**Skill-building Objectives**</sub> |
-| ---------------- |
+| :---------------- |
 | <sub> 1. Measuring and Dimensioning Objects </sub>   |
 | <sub> 2. Representing 3D Objects using 2D Sketches</sub>   |
 | <sub> 3. Modeling 3D Objects from 2D Sketches</sub>    |
