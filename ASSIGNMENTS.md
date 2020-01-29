@@ -2,7 +2,7 @@
 
 | TABLE OF CONTENTS |
 | :----------------- |
-| <sub>[Project 1 - Modeling & Printing Found Objects](#project-1)</sub> |
+| <sub>[Project 1 - Modeling & Fabricating Found Objects](#project-1)</sub> |
 
 ---
 ## Project 1
