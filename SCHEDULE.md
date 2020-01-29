@@ -40,6 +40,7 @@ Schedule and dates subject to change. Check back often.
 #### Week 3 
 
 #### Tuesday 2/4
+* Discuss Process Blog/Journal
 * Fusion 360 Techniques
 * Project 1 - Work Time
 
@@ -54,8 +55,10 @@ Schedule and dates subject to change. Check back often.
 * Fusion 360 Techniques
 * Project 1 - Work Time
 
-### Thursday 2/13 
+#### Thursday 2/13 
 * Project 1 Due: Found Objects / Presentation + Critique
+* Research Assignment
+* Intro Project 2
 
 ---
 
@@ -85,6 +88,7 @@ Schedule and dates subject to change. Check back often.
 ### Week 9 (2020.03.16)
 #### Tue, 3/17
 #### Thu, 3/19
+* Project 2 Due
 
 ---
 ### Week 10 (2020.03.23)
@@ -100,7 +104,7 @@ Schedule and dates subject to change. Check back often.
 ### Week 12 (2020.04.06)
 #### Tue, 4/7
 #### Thu, 4/9
-
+* Project 3 Due
 ---
 ### Week 13 (2020.04.13)
 #### Tue, 4/14
@@ -118,5 +122,5 @@ Schedule and dates subject to change. Check back often.
 
 ---
 ### Week 16 (2020.05.04)
-#### Tue, 5/5
-#### Thu, 5/7
+* Project 4 Due : Final Critique TBD
+* Process Blog
