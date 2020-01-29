@@ -21,7 +21,7 @@ Look around. Objects are everywhere. In the built-environment nearly everything 
 
 In this assignment we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
 
-Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or smaller. We will bring found objects to class, anddiscuss their qualities and merits for this exercise.
+Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or smaller. You will bring your found objects to class, and we discuss their qualities and merits for this exercise.
 
 Once you've selected your object, you will start measuring and recording its measurements using [calipers](https://en.wikipedia.org/wiki/Calipers). This is the "dimensioning" process.
 
