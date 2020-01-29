@@ -34,21 +34,25 @@ Schedule and dates subject to change. Check back often.
 #### Thursday 1/30
 * ```IMPORTANT``` - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
 * Intro to Fab Lab, 3D Printers, Cura Software
+* In-Class 3D Modeling Time
 
 ---
 #### Week 3 
 
 #### Tuesday 2/4
-* Project 1 - Work time
+* Fusion 360 Techniques
+* Project 1 - Work Time
 
 #### Thursday 2/6
+* Fab Lab TBD
 * Project 1 - Work time
-* 3D Printing at Fab Lab
 
 ---
 ### Week 4
 
 #### Tuesday 2/11
+* Fusion 360 Techniques
+* Project 1 - Work Time
 
 ### Thursday 2/13 
 * Project 1 Due: Found Objects / Presentation + Critique
