@@ -5,22 +5,29 @@
 | <sub>[Project 1 - Modeling & Printing Found Objects](#project-1)</sub> |
 
 ---
-## Project 1
+# Project 1
 
-#### Modeling Found Objects
+### Found Objects
 
-In this assignment we will explore modeling objects from real life in accurate dimension. We will take found objects, and record their measurements using calipers. Then we will sketch their dimensions in 2-dimensions. Then we will transfer our 2D sketches into 3D using modeling software, exploring a common workflow for design and fabrication (2D to 3D). Finally, we will attempt to fabricate our objects on 3D printers, comparing the cloned objecet to the original.
+**Description**
+In this assignment we will explore modeling objects from real life in accurate dimension. We will take found objects, and record their measurements using [calipers](https://en.wikipedia.org/wiki/Calipers). Then we will sketch their profiles in 2-dimensions. Once we can represent the main features and outlines in "sketches", we will transfer our 2D drawings into 3D models. This a common workflow for design and fabrication (sketching in 2D, and extruding/modeling in 3D). Finally, we will attempt to fabricate our objects on 3D printers, comparing the modeled objecet to the original.
 
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/images/pencil.jpg" width="960" height="auto" />
 
-```Project page coming soon.```
+| <sub>**Skill-building Objectives**</sub> |
+| ---------------- |
+| <sub> 1. Measuring and Dimensioning Objects </sub>   |
+| <sub> 2. Representing 3D Objects using 2D Sketches</sub>   |
+| <sub> 3. Modeling 3D Objects from 2D Sketches</sub>    |
+| <sub> 4. Fabricating Modeled Objects on 3D Printers</sub> |
 
 ---
-## Project 2
+# Project 2
 
-Designing everyday things
+### 3D Prototype
 
 ---
-## Project 3
+# Project 3
 
 Nature Inspired Design
 
