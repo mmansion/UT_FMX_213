@@ -67,6 +67,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
   * [2D Sketching in Fusion 360](https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/)
 
 * ### 3D Printing
+   * [Design for Printability](https://ultimaker.com/en/resources/22015-designing-for-printability)
    *  [Preparing a Print for Ultimaker using Cura](https://ultimaker.com/en/resources/23119-preparing-a-print-with-ultimaker-cura)
    * [3D Printing (very basic intro to printing and problem solving)](https://www.lynda.com/SharedPlaylist/5cb00a30aa4e468e8fb2e7e8a6bbdd8e)
    * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
