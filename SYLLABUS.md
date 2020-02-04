@@ -21,9 +21,9 @@
 
 ## Course Overview
 
-🐒 Humans are the only species on earth (so far) with an ability reshape the world using their imaginations. We can dream, design and build tangible things that dramatically impact the planet and those living on it. Some of the things we maker are really good, while others, not so much. One thing is for certain; today we find ourselves with a host of realy powerful design and fabrication tools at our fingertips. Only one question remains: how will you, as an artist or designer, leverage these tools to make something incredible?
+🐒 Humans are the only species on earth (so far) with an ability reshape the world using their imaginations. We can dream, design and build tangible things that dramatically impact the planet and all of those living on it. Some of the things we make are really good, while others, um, not so much. One thing is for certain though! Today we find ourselves blessed with a host of realy powerful design and fabrication tools, just at our fingertips. The real question is: how will you, as an artist or designer, leverage these tools to make something incredible? 🤔
 
-In this studio/performance-oriented class, we will focus on designing and modeling 3D objects for fabrication. We will explore workflows that allow you to take sketches, photographs and scans into a 3D environment, and then edit those designs order to manufacture them using 3D printers, and related fabrication hardware. We will also explore methods of texturing, lighting and rendering design concepts in order to create photo-realistic (or even abstract/artistic) representations of designs for purposes of documentation, visual communication, or even as part of other creative workflows.
+In this studio/performance-oriented class, we will focus on designing and modeling 3D objects for fabrication. We will explore workflows that allow you to take sketches, photographs and scans into a 3D environment, and then edit those designs order to manufacture them using 3D printers, and related fabrication hardware. We will also explore methods of texturing, lighting and rendering design concepts in order to create photo-realistic (or even abstract/artistic) representations of designs for purposes of documentation, visual communication, or even as part of other creative workflows. 🎨🎨🎨
 
 ## Aims & Objectives
 
