@@ -42,7 +42,7 @@ Schedule and dates subject to change. Check back often.
 #### Tuesday 2/4
 * Discuss Process Blog/Journal
 * Fusion 360 Techniques
-* In-Class Exercise
+* [In-Class Exercise](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md)
 
 #### Thursday 2/6
 * Fab Lab TBD
