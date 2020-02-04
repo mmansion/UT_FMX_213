@@ -42,30 +42,32 @@ Schedule and dates subject to change. Check back often.
 #### Tuesday 2/4
 * Discuss Process Blog/Journal
 * Fusion 360 Techniques
-* Project 1 - Work Time
+* In-Class Exercise
 
 #### Thursday 2/6
 * Fab Lab TBD
-* Project 1 - Work time
+* In-Class Exercise
 
 ---
 ### Week 4
 
 #### Tuesday 2/11
-* Fusion 360 Techniques
-* Project 1 - Work Time
+
 
 #### Thursday 2/13 
-* Project 1 Due: Found Objects / Presentation + Critique
-* Research Assignment
-* Intro Project 2
+
 
 ---
 
 ### Week 5
+* Fusion 360 Techniques
+* Project 1 - Work Time
 
 #### Tue, 2/18
 #### Thu, 2/20
+* Project 1 Due: Found Objects / Presentation + Critique
+* Research Assignment
+* Intro Project 2
 
 ---
 ### Week 6
