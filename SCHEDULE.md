@@ -41,21 +41,24 @@ Schedule and dates subject to change. Check back often.
 
 #### Tuesday 2/4
 * Discuss Process Blog/Journal
-* Fusion 360 Techniques
-* [In-Class Exercise](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md)
+* Fusion 360, 3D Modeling Techniques
+* [In-Class Exercise 1](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md)
 
 #### Thursday 2/6
-* Fab Lab TBD
-* In-Class Exercise
+* Send Process Blog Links
+* Fusion 360, 3D Modeling Techniques
+* [In-Class Exercise 2](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md)
 
 ---
 ### Week 4
 
 #### Tuesday 2/11
-
+* ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* Practicing 3D Printing
 
 #### Thursday 2/13 
-
+* ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* Practicing 3D Printing
 
 ---
 
