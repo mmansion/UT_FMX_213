@@ -2,10 +2,11 @@
 
 | TABLE OF CONTENTS |
 | :----------------- |
-| <sub>[Exercise 1 - Fusion 360 Modeling](#3d-modeling-exercise-1)</sub> |
+| <sub>[Fusion 360 - Modeling Exercise 1](#exercise-1)</sub> |
+| <sub>[Fusion 360 - Modeling Exercise 2](#exercise-2)</sub> |
 
 ---
-## 3D Modeling Exercise 1
+## Exercise 1
 
 For this exercise we will break into groups. Each group is assigned a number. Each number corresponds to a different image below.
 
@@ -32,3 +33,16 @@ The images are simple isometric representations, soeverything can be created usi
 
 ### No.6 - Table and Chair
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D%20Exercise%201/6_table_and_chair.jpg" width="400">
+
+---
+## Exercise 2
+
+For this exercise we will work individually to model a 3D object, and then turn that model into a component in our design file. Ater that we "componentize" the bodies of our model, we will add our files to a shared project, then include them into a master assembly file.
+
+An Fusion 360 assembly model is a collection of parts and subassemblies that function as a single unit. Parts and subassemblies are connected by assembly relationships
+
+Since there is no special file type for assemblies, each Fusion design can be a single part with only bodies, or an assembly with jointed components, or a mix of the two. Components that themselves have sub-components are considered to be assemblies.
+
+For this exercise you will select one of the objects in the list below to model. It is recommended that you choose something that will be challenging for your current skill level. Each image was selected to present a unique set of challenges for varying levels of competence. 
+
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D%20Exercise%201/1_bed.jpg" width="400">
