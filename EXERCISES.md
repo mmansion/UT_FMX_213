@@ -2,10 +2,10 @@
 
 | TABLE OF CONTENTS |
 | :----------------- |
-| <sub>[Exercise 1 - Fusion 360 Modeling](#exercise-1)</sub> |
+| <sub>[Exercise 1 - Fusion 360 Modeling](#3d-modeling-exercise-1)</sub> |
 
 ---
-## Exercise 1
+## 3D Modeling Exercise 1
 
 For this exercise we will break into groups. Each group is assigned a number. Each number corresponds to a different image below.
 
