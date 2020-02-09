@@ -68,21 +68,29 @@ Schedule and dates subject to change. Check back often.
 ### Week 5
 
 #### Tue, 2/18
-* Object Based Storytelling Workshop
+* Object Based Storytelling design workshop
 * Project 2 Overview
+* Fusion 360 Materials & Rendering
 
 #### Thu, 2/20
 * Project 1 Due: Found Objects Presentation + Critique
+* Fusion 360 Materials & Rendering
 
 ---
 ### Week 6
 #### Tue, 2/25
+* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+
 #### Thu, 2/27
+
 
 ---
 ### Week 7
 #### Tue, 3/3
+* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+
 #### Thu, 3/5
+* Project 2 Due: Storytelling with Objects + Critique
 
 ---
 ### Week 8 (2020.03.09)
@@ -93,41 +101,55 @@ Schedule and dates subject to change. Check back often.
 
 ---
 ### Week 9 (2020.03.16)
+
 #### Tue, 3/17
+* Intro to 3D Modeling for Digital Media
+* Intro to Cinema 4D
+
 #### Thu, 3/19
-* Project 2 Due
+* Modeling in Cinema 4D
 
 ---
 ### Week 10 (2020.03.23)
+
 #### Tue, 3/24
+* Modeling in Cinema 4D
+
 #### Thu, 3/26
+* Modeling in Cinema 4D
 
 ---
 ### Week 11 (2020.03.30)
+
 #### Tue, 3/31
 #### Thu, 4/2
 
 ---
 ### Week 12 (2020.04.06)
+
 #### Tue, 4/7
 #### Thu, 4/9
-* Project 3 Due
+
 ---
 ### Week 13 (2020.04.13)
+
 #### Tue, 4/14
 #### Thu, 4/16
 
 ---
 ### Week 14 (2020.04.20)
+
 #### Tue, 4/21
 #### Thu, 4/23
 
 ---
 ### Week 15 (2020.04.27)
+
 #### Tue, 4/28
 #### Thu, 4/30
+* Project 4 Due : Final Critique TBD
 
 ---
-### Week 16 (2020.05.04)
-* Project 4 Due : Final Critique TBD
-* Process Blog
+### Week 16 (2020.05.04) (FINAL CLASS DATE MAY CHANGE)
+* Final Presentations
+* Process Blogs Due
