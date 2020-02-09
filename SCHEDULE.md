@@ -54,25 +54,26 @@ Schedule and dates subject to change. Check back often.
 
 #### Tuesday 2/11
 * ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
-* Practicing 3D Printing
-* First group of 8x students print during class time 
+* 3D Design & Printing Time - Project 1, Found Objects
+* First group of 8 x students printing during class time
+* ```REMEMBER``` Document your process!
 
 #### Thursday 2/13 
 * ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
-* Practicing 3D Printing
+* 3D Design & Printing Time - Project 1, Found Objects
 * Second group of 8x students print during class time 
+* Process blog URLs due
 
 ---
 
 ### Week 5
-* Fusion 360 Techniques
-* Project 1 - Work Time
 
 #### Tue, 2/18
+* Object Based Storytelling Workshop
+* Project 2 Overview
+
 #### Thu, 2/20
-* Project 1 Due: Found Objects / Presentation + Critique
-* Research Assignment
-* Intro Project 2
+* Project 1 Due: Found Objects Presentation + Critique
 
 ---
 ### Week 6
