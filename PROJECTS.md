@@ -38,7 +38,7 @@ Finally, we will attempt to fabricate our objects using 3D printers. Beforehand 
 ---
 ## Project 2
 
-### Designing & Prototyping Something Functional
+### Storytelling with Objects
 
 ---
 ## Project 3
