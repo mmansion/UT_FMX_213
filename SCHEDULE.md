@@ -36,7 +36,7 @@ Schedule and dates subject to change. Check back often.
 * In-Class 3D Modeling Time
 
 ---
-#### Week 3 
+### Week 3 
 
 #### Tuesday 2/4
 * Discuss Process Blog/Journal
