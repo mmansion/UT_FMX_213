@@ -52,13 +52,13 @@ Schedule and dates subject to change. Check back often.
 ### Week 4
 
 #### Tuesday 2/11
-* ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
 * 3D Design & Printing Time - Project 1, Found Objects
 * First group of 8 x students printing during class time
 * ```REMEMBER``` Document your process!
 
 #### Thursday 2/13 
-* ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
 * 3D Design & Printing Time - Project 1, Found Objects
 * Second group of 8x students print during class time 
 * Process blog URLs due
