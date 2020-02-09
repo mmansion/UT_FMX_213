@@ -33,7 +33,7 @@ Finally, we will attempt to fabricate our objects using 3D printers. Beforehand 
 
 ```IMPORTANT``` - Be sure to document your process throughout this assignment. Our end goal is to have a classroom critique, where we compare our 3D fabricated models to the original found objects, and then discuss: 1) what worked; 2) didn't work; and 3) what can be done differently in the future for better results.
 
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/pencil.jpg" width="960" height="auto" />
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/pencil.jpg" width="400" height="auto" />
 
 ---
 ## Project 2
