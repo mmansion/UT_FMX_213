@@ -55,10 +55,12 @@ Schedule and dates subject to change. Check back often.
 #### Tuesday 2/11
 * ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
 * Practicing 3D Printing
+* First group of 8x students print during class time 
 
 #### Thursday 2/13 
 * ```IMPORTANT``` - Meeting @ UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
 * Practicing 3D Printing
+* Second group of 8x students print during class time 
 
 ---
 
