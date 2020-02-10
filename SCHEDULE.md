@@ -53,14 +53,13 @@ Schedule and dates subject to change. Check back often.
 
 #### Tuesday 2/11
 * **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
-* 3D Design & Printing Time - Project 1, Found Objects
-* First group of 8 x students printing during class time
+* Object Based Storytelling design workshop
+* In-class work time / first group of 8 x students 3D-printing
 * ```REMEMBER``` Document your process!
 
 #### Thursday 2/13 
 * **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
-* 3D Design & Printing Time - Project 1, Found Objects
-* Second group of 8x students print during class time 
+* In-class work time / first group of 8 x students 3D-printing
 * Process blog URLs due
 
 ---
@@ -68,8 +67,6 @@ Schedule and dates subject to change. Check back often.
 ### Week 5
 
 #### Tue, 2/18
-* Object Based Storytelling design workshop
-* Project 2 Overview
 * Fusion 360 Materials & Rendering
 
 #### Thu, 2/20
