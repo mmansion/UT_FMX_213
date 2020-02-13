@@ -21,7 +21,7 @@ Look around. Objects are everywhere. In the built-environment nearly everything 
 
 In this assignment we will explore the process of modeling and fabricating real-life objects. In our study, we will learn a common "design for fabrication" process, by: 1) measuring; 2) sketching; 3) modeling; and then 4) fabricating.
 
-Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or smaller. You will bring your found objects to class, and we discuss their qualities and merits for this exercise.
+Start by finding 3 (or more) found objects that are around 6in<sup>3</sup>, or smaller. You will bring your found objects to class, and we discuss their qualities and merits for this exercise. **You will select 1 object for this project.**
 
 Once you've selected your object, you will start measuring and recording its measurements using [calipers](https://en.wikipedia.org/wiki/Calipers). This is the "dimensioning" process.
 
@@ -33,7 +33,29 @@ Finally, we will attempt to fabricate our objects using 3D printers. Beforehand 
 
 ```IMPORTANT``` - Be sure to document your process throughout this assignment. Our end goal is to have a classroom critique, where we compare our 3D fabricated models to the original found objects, and then discuss: 1) what worked; 2) didn't work; and 3) what can be done differently in the future for better results.
 
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/pencil.jpg" width="400" height="auto" />
+#### Final Deliverables
+
+**Materials Due by class on Thursday, 2/20)**
+
+Bring your found objects and the 3D-printed replica to class. We will discuss these as a group in a round-table critique.
+
+The following materials should be submitted to *mmansion@ut.edu* :
+
+1. A zip folder containing the following:
+  * Photo of your found object
+  * Image of the modeled object
+  * Photo of the printed object
+  * STL file of the model (exported from Fusion 360)
+
+2. A link you your blog post for project 1, with the following:
+
+  * The above-mentioned images of your object (original / modeled / fabricated)
+  * Brief paragraph describing
+    * what is the object is
+    * how closely could you came to resembling the original
+    * what you think worked and  didn't work
+    * what would you do different next time?
+    * any other details you find relevant
 
 ---
 ## Project 2
