@@ -53,15 +53,14 @@ Schedule and dates subject to change. Check back often.
 
 #### Tuesday 2/11
 * **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
-* **Project 2 Workshop (Session 1) - Storytelling w/ Objects**
+* **[Project 2 Workshop (Session 1) - Storytelling w/ Objects](https://docs.google.com/presentation/d/1NUij-Kjhn2nqt1CMeZFRjGepr0obiT5Bx9rFV0cvGgY/edit#slide=id.g6eca19f4c2_0_3)**
 * In-class work time / first group of 8 x students 3D-printing
 * ```REMEMBER``` Document your process!
 
 #### Thursday 2/13 
 * **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27](https://www.ut.edu/uploadedFiles/About/UTCampusMap-a_924.pdf)
-* **Project 2 Workshop (Session 2) - Storytelling w/ Objects**
+* **[Project 2 Workshop (Session 2) - Storytelling w/ Objects](https://docs.google.com/presentation/d/1NUij-Kjhn2nqt1CMeZFRjGepr0obiT5Bx9rFV0cvGgY/edit#slide=id.g6eca19f4c2_0_3)**
 * In-class work time / first group of 8 x students 3D-printing
-* Process blog URLs due
 
 ---
 
@@ -71,7 +70,7 @@ Schedule and dates subject to change. Check back often.
 * Fusion 360 Materials & Rendering
 
 #### Thu, 2/20
-* Project 1 Due: Found Objects Presentation + Critique
+* Project 1 Materials Due: Found Objects Presentation + Critique
 * Fusion 360 Materials & Rendering
 
 ---
