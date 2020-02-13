@@ -35,19 +35,19 @@ Finally, we will attempt to fabricate our objects using 3D printers. Beforehand 
 
 ####Final Deliverables
 
-**Materials Due by class on Thursday, 2/20)**
+**`Materials Due by class on Thursday, 2/20)`**
 
 Bring your found objects and the 3D-printed replica to class. We will discuss these as a group in a round-table critique.
 
 The following materials should be submitted to *mmansion@ut.edu* :
 
-1. A zip folder containing the following:
+**1. A zip folder containing the following:**
   * Photo of your found object
   * Image of the modeled object
   * Photo of the printed object
   * STL file of the model (exported from Fusion 360)
 
-2. A link you your blog post for project 1, with the following:
+**2. A link you your blog post for project 1, with the following:**
 
   * The above-mentioned images of your object (original / modeled / fabricated)
   * Brief paragraph describing
