@@ -63,6 +63,24 @@ The following materials should be submitted to *mmansion@ut.edu* :
 ### Storytelling with Objects
 
 * [Workshop Presentation 1](https://docs.google.com/presentation/d/1NUij-Kjhn2nqt1CMeZFRjGepr0obiT5Bx9rFV0cvGgY/edit#slide=id.g6eca19f4c2_0_3)
+
+* [Project No.2 - Assignment](https://docs.google.com/presentation/d/1UMNn3O4FMefnhH9vQxoUobvb0EtTQZQuVI1CCdrHrcM/edit?usp=sharing)
+
+* Choose only 1 of the following options
+
+#### Option 1
+
+Select a favorite film. Select an object from that film. Develop a completely new narrative for this object—something unique and different from the original story. Model the object in Fusion 360; then create 3 photorealistic renders of the object inside a new scene(s) (backgrounds). Describe the scene(s) in a written paragraph. 
+
+
+#### Option 2
+
+Select a favorite film. Create an object that was not part of the original film. Taking 3 frames from the original footage, place your object into each scene. Develop a new narrative that explains the object’s relevance in the scene.
+
+#### Option 3
+
+Select a favorite film. Select an object from that film. Develop a completely new narrative for this object—something unique and different from the original story. Model and fabricate a scale model of the object, using the printers and tools in the fab lab.  Build a miniature set, or find a location where you can photograph the physical object, in a real-life scene. Describe the scene in a written paragraph.
+
 ---
 ## Project 3
 
