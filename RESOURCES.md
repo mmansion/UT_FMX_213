@@ -74,5 +74,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
    
 * ### Rendering
   * [About HDRI Images](https://vrender.com/what-is-hdri/)
+  * [HDRi Haven - Free Images for Testing](https://hdrihaven.com/)
+
 * ### Adobe Substance
  * [Substance Academy](https://academy.substance3d.com/?utm_source=Pardot&utm_medium=email&utm_campaign=Academy)
