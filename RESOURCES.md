@@ -72,6 +72,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
    * [3D Printing (very basic intro to printing and problem solving)](https://www.lynda.com/SharedPlaylist/5cb00a30aa4e468e8fb2e7e8a6bbdd8e)
    * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
    
-   
+* ### Rendering
+  * [About HDRI Images](https://vrender.com/what-is-hdri/)
 * ### Adobe Substance
  * [Substance Academy](https://academy.substance3d.com/?utm_source=Pardot&utm_medium=email&utm_campaign=Academy)
