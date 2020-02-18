@@ -59,6 +59,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
 ## ONLINE LEARNING RESOURCES
 
 * ### Fusion 360 
+
   * [Autodesk Design Academny Videos (beginner to advanced)](https://academy.autodesk.com/software/fusion-360)
   * [**Fusion 360 - Essential Training**](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training-REVISION/5034167-2.html) <br><img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/f360-course-logo.png" width="300px">
   * [Understanding Constraints when Sketching](https://www.youtube.com/watch?v=J_2If5zVp84)
@@ -73,8 +74,10 @@ The primary software in this course we will explore is Fusion 360; and the prima
    * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
    
 * ### Rendering
+  * [Gallery of Fusion 360 Models & Renders](https://gallery.autodesk.com/projects/all#filters=%5B%5B%22industries%22%2C%22Other%20Industries%22%2C%22Other%20Industries%22%5D%2C%5B%22categories%22%2C%22Design%22%2C%22Design%22%5D%2C%5B%22main_products%22%2C%22Fusion%20360%22%2C%22Fusion%20360%22%5D%5D&sort=popularity)
   * [About HDRI Images](https://vrender.com/what-is-hdri/)
   * [HDRi Haven - Free Images for Testing](https://hdrihaven.com/)
 
 * ### Adobe Substance
+
  * [Substance Academy](https://academy.substance3d.com/?utm_source=Pardot&utm_medium=email&utm_campaign=Academy)
