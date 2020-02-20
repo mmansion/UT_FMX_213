@@ -72,6 +72,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
    *  [Preparing a Print for Ultimaker using Cura](https://ultimaker.com/en/resources/23119-preparing-a-print-with-ultimaker-cura)
    * [3D Printing (very basic intro to printing and problem solving)](https://www.lynda.com/SharedPlaylist/5cb00a30aa4e468e8fb2e7e8a6bbdd8e)
    * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
+   * [Rafts, Skirts & Brims](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims/)
    
 * ### Rendering
   * [Gallery of Fusion 360 Models & Renders](https://gallery.autodesk.com/projects/all#filters=%5B%5B%22industries%22%2C%22Other%20Industries%22%2C%22Other%20Industries%22%5D%2C%5B%22categories%22%2C%22Design%22%2C%22Design%22%5D%2C%5B%22main_products%22%2C%22Fusion%20360%22%2C%22Fusion%20360%22%5D%5D&sort=popularity)
