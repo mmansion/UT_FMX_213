@@ -76,15 +76,15 @@ Schedule and dates subject to change. Check back often.
 ---
 ### Week 6
 #### Tue, 2/25
-* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* Project 2
 
 #### Thu, 2/27
-
+* Project 2
 
 ---
 ### Week 7
 #### Tue, 3/3
-* **```IMPORTANT```** - Meeting at UT Fab Lab, Bailey Art Studios [CAMPUS MAP NO.27]
+* Project 2
 
 #### Thu, 3/5
 * Project 2 Due: Storytelling with Objects + Critique
