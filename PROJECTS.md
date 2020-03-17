@@ -84,7 +84,29 @@ Select a favorite film. Select an object from that film. Develop a completely ne
 ---
 ## Project 3
 
-TBD
+### Modeling from Nature
+
+| <sub>**Skill-building Objectives**</sub> |
+| :---------------- |
+| <sub> 1. Explore the Patching Workspace</sub>   |
+| <sub> 2. Utilize surface modeling techniques create more organic forms</sub> |
+| <sub> 2. Stich surfaces together in order to produce solid bodies</sub>   |
+
+Up until now we've primarily focused on creating solid models (bodies) in Fusion 360, using the "Modeling Workspace". We have also explored the process of starting from 2D sketches, and then extruding those models into 3D forms. 
+
+Another common method of modeling is called surface modeling. Rather than thinking of our 3D objects as discrete volumes containing a mass, we can imagine that the model as an empty shell, defined by only its surfaces. Once those surfaces get "stiched"  together, they effectively behave like any other solid body in Fusion 360. Once a model becomes a solid body you can use any of the shaping techniques, such as combine, cut, fillet, chamfer, etc. 
+
+Surface modeling is more technical, and requires some thinking--especially if you plan to "stich" the seams back together, making it a "water tight" solid body, which is necessary for 3D printing and fabrication. Regardless, surface modeling is generally considered better for making more complex or organic forms, because you can create some really unique shapes that aren't based on simple primitive geometry. 
+
+In this project we will explore surface modeling by attempting to model an object from nature. Our aim will be to create a digital still life image.
+
+#### Getting Started
+
+* For a brief introduction to the surface modeling process you can observe [this Youtube video](https://www.youtube.com/watch?v=NypRE2aFhh4). Certain things should already be familiar to you, such as starting from a sketch. The main thing to take away is that you can use the Patch environment to create extrusions from simple curves/lines and then later stich those surfaces back together.
+
+#### Project Instructions
+
+`COMING SOON`
 
 ---
 ## Project 4
