@@ -2,8 +2,9 @@
 
 | TABLE OF CONTENTS |
 | :----------------- |
-| <sub>[Fusion 360 - Modeling Exercise 1](#exercise-1)</sub> |
-| <sub>[Fusion 360 - Modeling Exercise 2](#exercise-2)</sub> |
+| <sub> [Fusion 360 - Modeling Exercise 1](#exercise-1)</sub> |
+| <sub> [Fusion 360 - Modeling Exercise 2](#exercise-2)</sub> |
+| <sub> [Fusion 360 - Modeling Exercise 3] (#exercise-3)</sub> |
 
 ---
 ## Exercise 1
@@ -75,3 +76,21 @@ For this exercise you will select one of the objects in the list below to model.
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/trophy.png" width="100">
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/usb.png" width="100">
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/whistle.png" width="100">
+
+---
+## Exercise 3
+
+In this exercise we will explore the sculpting tools in Fusion 360 by modeling a seashell. Shells come from sea creatures and grow into a wide variety of unique organic shapes. Start by finding a set of references images of a seashell, or take the pics yourself. Try to select a shell that is not super complex (see a good example set of images below). 
+
+In this exercise you should use [the image canvas feature in Fuesion 360](https://www.autodesk.com/products/fusion-360/blog/getting-started-with-fusion-360-start-with-concept-images/) in order to create a reference to the side and top of the shell. When sourcing your reference image, it's important to have a clear view of both top and side of the object.
+
+To make the Sculpt Workspace immediately accessible in the Fusion 360 , you should [disable the timeline by disabling the design history](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-deactivate-the-timeline-to-show-the-Mesh-environment.html).
+
+It is recommended to review the following tutorials and resources before beginning this assignment:
+
+1. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
+2. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
+1. [Modeling a 3D-Printable Flower](https://www.instructables.com/id/Fusion-360-3D-Printable-Flower/)
+
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/shell.jpg" width="600">
+
