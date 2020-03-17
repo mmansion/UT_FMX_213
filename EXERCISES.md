@@ -4,7 +4,7 @@
 | :----------------- |
 | <sub> [Fusion 360 - Modeling Exercise 1](#exercise-1)</sub> |
 | <sub> [Fusion 360 - Modeling Exercise 2](#exercise-2)</sub> |
-| <sub> [Fusion 360 - Modeling Exercise 3] (#exercise-3)</sub> |
+| <sub> [Fusion 360 - Modeling Exercise 3](#exercise-3)</sub> |
 
 ---
 ## Exercise 1
