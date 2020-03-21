@@ -54,7 +54,7 @@ The following materials should be submitted to *mmansion@ut.edu* :
     * what is the object is
     * how closely could you came to resembling the original
     * what you think worked and  didn't work
-    * what would you do different next time?
+    * what would you do differently next time?
     * any other details you find relevant
 
 ---
