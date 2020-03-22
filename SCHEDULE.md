@@ -100,25 +100,33 @@ Schedule and dates subject to change. Check back often.
 ### Week 9 (2020.03.16)
 
 #### Tue, 3/17
-* Intro to 3D Modeling for Digital Media
-* Intro to Cinema 4D
+* Organic Modeling in Fusion 360
+* [Working on Exercise 3 - Modeling a Seashell](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3)
 
 #### Thu, 3/19
-* Modeling in Cinema 4D
+* Organic Modeling in Fusion 360
+* [Working on Exercise 3 - Modeling a Seashell](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3)
+
 
 ---
 ### Week 10 (2020.03.23)
 
 #### Tue, 3/24
-* Modeling in Cinema 4D
+* Organic Modeling in Fusion 360
+* [Working on Exercise 3 - Modeling a Seashell](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3)
+
 
 #### Thu, 3/26
-* Modeling in Cinema 4D
+* Organic Modeling in Fusion 360
+* [Working on Exercise 3 - Modeling a Seashell](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3)
 
 ---
 ### Week 11 (2020.03.30)
 
 #### Tue, 3/31
+* Begin Project 3.
+* Exercise 3 Due.
+
 #### Thu, 4/2
 
 ---
