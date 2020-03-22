@@ -46,38 +46,40 @@ Since there is no special file type for assemblies, each Fusion design can be a 
 
 For this exercise you will select one of the objects in the list below to model. It is recommended that you choose something that will be challenging for your current skill level. Each image was selected to present a unique set of challenges for varying levels of competence.
 
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/3D_glasses.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/bullhorn.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/butcher_knife.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/chess_piece.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/compass.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/controller.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/cup.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/eggs.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/fan.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/flashlight.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/frying_pan.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/icecream_sandwhich.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/iron.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/lamp.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/lock_and_key.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/microscope.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pencil_sharpener.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pill_bottle.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pitcher.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/scale.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/screwdriver.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/skateboard.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/slide.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/spade.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/stove.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/suitcase.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/toaster.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/trophy.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/usb.png" width="100">
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/whistle.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/3D_glasses.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/bullhorn.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/butcher_knife.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/chess_piece.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/compass.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/controller.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/cup.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/eggs.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/fan.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/flashlight.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/frying_pan.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/icecream_sandwhich.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/iron.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/lamp.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/lock_and_key.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/microscope.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pencil_sharpener.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pill_bottle.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/pitcher.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/scale.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/screwdriver.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/skateboard.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/slide.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/spade.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/stove.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/suitcase.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/toaster.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/trophy.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/usb.png" width="100">
+<img style="clear:both" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_2/whistle.png" width="100">
+
 
 ---
+
 ## Exercise 3
 
 In this exercise we will explore the sculpting tools in Fusion 360 by modeling a seashell. Shells come from sea creatures and grow into a wide variety of unique organic shapes. Start by finding a set of references images of a seashell, or take the pics yourself. Try to select a shell that is not super complex (see a good example set of images below). 
