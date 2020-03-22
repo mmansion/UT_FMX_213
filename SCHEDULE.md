@@ -117,8 +117,8 @@ Schedule and dates subject to change. Check back often.
 
 
 #### Thu, 3/26
-* Organic Modeling in Fusion 360
-* [Working on Exercise 3 - Modeling a Seashell](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3)
+* Begin Project No.3
+* TBD - HOLD FOR POSSIBLE ZOOM MEETING DURING CLASS TIME
 
 ---
 ### Week 11 (2020.03.30)
