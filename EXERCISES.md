@@ -86,6 +86,9 @@ In this exercise you should use [the image canvas feature in Fuesion 360](https:
 
 To make the Sculpt Workspace immediately accessible in the Fusion 360 , you should [disable the timeline by disabling the design history](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-deactivate-the-timeline-to-show-the-Mesh-environment.html).
 
+[Use this guide to discover some techniques for approaching this exercise](https://docs.google.com/presentation/d/1vHOFTroR3fyc_Z4X9etznj5NKmVXXHUg7hJomAobE60/edit?usp=sharing)
+
+
 It is recommended to review the following tutorials and resources before beginning this assignment:
 
 1. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
