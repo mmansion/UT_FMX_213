@@ -18,22 +18,22 @@ you already know. Every 10 minutes we will switch the person in your group drivi
 The images are simple isometric representations, soeverything can be created using relatively simple shapes.
 
 ### No.1 - Bed
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/1_bed.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/1_bed.jpg" width="300">
 
 ### N0.2 - Bunk Bed
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/2_bunk_bed.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/2_bunk_bed.jpg" width="300">
 
 ### No.3 - Chair and Lamp
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/3_chair_and_lamp.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/3_chair_and_lamp.jpg" width="300">
 
 ### No.4 - Couch
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/4_couch.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/4_couch.jpg" width="300">
 
 ### No.5 - Desk
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/5_desk.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/5_desk.jpg" width="300">
 
 ### No.6 - Table and Chair
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/6_table_and_chair.jpg" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/3D_Exercise_1/6_table_and_chair.jpg" width="300">
 
 ---
 ## Exercise 2
@@ -95,7 +95,6 @@ It is recommended to review the following tutorials and resources before beginni
 
 1. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
 2. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
-1. [Modeling a 3D-Printable Flower](https://www.instructables.com/id/Fusion-360-3D-Printable-Flower/)
 
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/shell.jpg" width="600">
 
