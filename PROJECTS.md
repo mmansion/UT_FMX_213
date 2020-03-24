@@ -3,6 +3,8 @@
 | TABLE OF CONTENTS |
 | :----------------- |
 | <sub>[Project 1 - Modeling & Fabricating Found Objects](#project-1)</sub> |
+| <sub>[Project 2 - Storytelling with Objects](#project-2)</sub> |
+| <sub>[Project 3 - Modeling from Nature](#project-3)</sub> |
 
 ---
 ## Project 1
