@@ -81,6 +81,29 @@ Select a favorite film. Create an object that was not part of the original film.
 
 Select a favorite film. Select an object from that film. Develop a completely new narrative for this object—something unique and different from the original story. Model and fabricate a scale model of the object, using the printers and tools in the fab lab.  Build a miniature set, or find a location where you can photograph the physical object, in a real-life scene. Describe the scene in a written paragraph.
 
+-
+
+#### Submitting your work
+
+Please place your Fusion 360 Model into the "[FMX-213] Shared Class Folder". Be sure to place it into the folder with your name. Name your file **Project2_TitleOfWork**
+ 
+
+The following materials should be submitted to *mmansion@ut.edu* :
+
+**1. Images:**
+  * The final composited images
+  * Screenshot of the modeled in Fusion 360
+
+**2. A link you your blog post for project 1, with the following:**
+
+  * The above-mentioned images
+  * Brief paragraph describing
+    * What is the object is and why you chose it.
+    * The scene(s) and their narrative backstory.
+    * What you think worked and  didn't work
+    * What would you do differently next time?
+    * Any other details you find relevant
+
 ---
 ## Project 3
 
