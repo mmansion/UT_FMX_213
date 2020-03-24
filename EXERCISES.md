@@ -90,10 +90,13 @@ To make the Sculpt Workspace immediately accessible in the Fusion 360 , you shou
 
 Please review the following tutorials and resources before beginning this assignment:
 
-1. [Class Guide on Modeling a Shell](https://docs.google.com/presentation/d/1vHOFTroR3fyc_Z4X9etznj5NKmVXXHUg7hJomAobE60/edit?usp=sharing)
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/modeling_organic_forms_thumb.png?raw=true" width="500">
-2. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
-3. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
+  1. [Class Guide on Modeling a Shell](https://docs.google.com/presentation/d/1vHOFTroR3fyc_Z4X9etznj5NKmVXXHUg7hJomAobE60/edit?usp=sharing)
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/modeling_organic_forms_thumb.png?raw=true" width="400">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/shell.jpg" width="400">
 
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/shell.jpg" width="600">
+  2. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
+  
+  3. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
+
+
 
