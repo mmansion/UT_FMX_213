@@ -88,13 +88,12 @@ In this exercise you should use [the image canvas feature in Fuesion 360](https:
 
 To make the Sculpt Workspace immediately accessible in the Fusion 360 , you should [disable the timeline by disabling the design history](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-deactivate-the-timeline-to-show-the-Mesh-environment.html).
 
-[Use this guide to discover some techniques for approaching this exercise](https://docs.google.com/presentation/d/1vHOFTroR3fyc_Z4X9etznj5NKmVXXHUg7hJomAobE60/edit?usp=sharing)
+Please review the following tutorials and resources before beginning this assignment:
+
+1. [Class Guide on Modeling a Shell](https://docs.google.com/presentation/d/1vHOFTroR3fyc_Z4X9etznj5NKmVXXHUg7hJomAobE60/edit?usp=sharing)
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/modeling_organic_forms_thumb.png?raw=true" width="500">
-
-It is recommended to review the following tutorials and resources before beginning this assignment:
-
-1. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
-2. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
+2. [Sculpting a Bike Seat](https://www.youtube.com/watch?v=3IvYRvyepig&t=195s)
+3. [Sculpting, Surface Modeling Videos](https://www.linkedin.com/learning/me?u=76361554)
 
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/shell.jpg" width="600">
 
