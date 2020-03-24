@@ -121,7 +121,9 @@ Another common method of modeling is generally known as surface modeling. Fusion
 
 Surface modeling is sometimes more technical if unstiching and stiching curved surfaces together. Regardless, surface modeling is generally considered better for making more complex or organic forms, because you can create some really unique shapes that aren't based on simple primitive geometry. In this project we will explore surface modeling by attempting to model an object from nature. Our aim will be to create a digital still life image.
 
-#### DETAILS FORTHCOMING
+In [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3), we will practice using the Sculpt Tools in Fusion 360.
+
+#### FURTHER DETAILS PENDING
 
 ---
 ## Project 4
