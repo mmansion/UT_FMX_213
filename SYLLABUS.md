@@ -97,7 +97,7 @@ prepared for class, or failing to fully participate in class, will count as an a
 | <sub>4 Absences</sub>  | <sub>10 points subtracted from final course grade</sub> |
 | <sub>5 Absenses</sub>  | <sub>20 points subtracted from final course grade</sub> |
 | <sub>6 Absenses</sub>  | <sub>30 points subtracted from final course grade</sub> |
-| <sub>7 Absenses+</sub> | <sub>Automatic Failure. No Exceptions</sub> |
+| <sub>7 Absences+</sub> | <sub>Automatic Failure. No Exceptions</sub> |
 
 * #### Excused Absences
 
