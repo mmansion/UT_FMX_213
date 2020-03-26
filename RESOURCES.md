@@ -7,6 +7,23 @@
 * This list gets updated regularly, check back often
 * If you find something relevant or inspiring we should add, send to mmansion@ut.edu
 ```
+---
+
+## STUDENT BLOGS
+
+[Chris](https://thebigblerg.blogspot.com/)
+[Ben](#)
+[Max](https://puleofmx213.blogspot.com/)
+[Kenedy](https://kenedybrown.blogspot.com/)
+[Josh](https://fmx213campbell.blogspot.com/)
+[Lillie](https://lillies3dmodelling.tumblr.com/)
+[Aury](https://3dprintingandmodelingaurymoralesp.blogspot.com/)
+[Nicholas](#)
+[Gabby](#)
+[Kyree](#)
+[Bret](#)
+[Bobby](#)
+[Isabel](#)
 
 ---
 
