@@ -109,7 +109,7 @@ The following materials should be submitted to *mmansion@ut.edu* :
 ---
 ## Project 3
 
-### Modeling from Nature
+### Nature-Driven Design
 
 | <sub>**Skill-building Objectives**</sub> |
 | :---------------- |
@@ -121,30 +121,47 @@ Until now we've mainly focused on creating solid models in the Fusion 360 Modeli
 
 Two other common modeling methods in Fusion 360 are Freeform and Surface modeling, part of the Sculpting and Surface workspaces respectively. In the Sculpt workspace we work with T-Splines, which are essentially freeform surfaces that can be subdivided, and allow for adjustment of any segments, edges or vertices; in the Patch workspace, we work with flat surfaces and can extrude single lines.
 
-<img style="float:left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/surface_modeling.png" width="100">
-<img style="clear:both" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/freeform_modeling.png" width="100">
+<img align="left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/freeform_modeling.png" width="300">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/surface_modeling.png" width="300">
 
+#### Assignment
 
+1. Find a flora-based lifeform in your home or in some nearby nature Try to choose something that inspires you, or that has a unique form.
+2. Take photos of the plant from various angles. Study it closely. What are its qualities? 
+3. Write out a list of notes describing the shape, form, texture and color of the plant.
+3. Consider these notes and sketch several ideas on paper for a vase design; the design should consider the qualities and somehow express or respond to these qualities.
+4. Use the canvas feature in Fusion 360 to create a reference. You don't have to follow it exactly, but it should "inform" your model's design.
+5. Try using a combination of Freeform and Surface modeling tools to create a unique artifact. Mold your design into a model that can be 3D-printed. (IT IS LIKELY THAT WE CANNOT ACTUALLY PRINT THESE OBJECTS. BUT YOU SHOULD MODEL IT AS IF YOU WERE GOING TO PRODUCE IT. THIS MEANS THAT SEAMS OF SURFACES SHOULD BE STITCHED AND THE OBJECT 'WATER TIGHT')
 
-Project 3 - Nature Driven Design
-Find a flora-based lifeform in your home or in some nearby nature Try to choose something that inspires you, or that has a unique form.
-Take photos of the plant from various angles. Study it closely. What are its qualities? 
-Write out a list of notes describing the shape, form, texture and color of the plant.
-Consider these notes and sketch several ideas on paper for a vase design; the design should consider the qualities and somehow express or respond to these qualities.
-In Fusion 360 use a combination of Freeform and Surface modeling tools to create a unique artifact.
-Mold the design into a model that can be 3D-printed.
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/project3_examples.png" width="300">
 
+#### Final Deliverables
 
-In [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3), we will practice using the Sculpt Tools in Fusion 360.
+**1. Email a zip folder containing the following:**
+  * Photo of your original found organic object (The Plant)
+  * Image of the modeled object (Rendered view)
+  * Optional - Photo of the printed object ( `This will not be possible for everyone` )
 
-#### FURTHER DETAILS PENDING
+**2. A link you your blog post for project 1, with the following:**
+
+  * The above-mentioned images
+  * Brief paragraph describing
+    * What is the object is and why you chose it.
+    * Notes about the qualities you observed.
+    * How your design responded to the observed qualities.
+    * What would you do differently next time?
+    * Any other details you find relevant.
+
+-
+
+Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md) page for support and tutorials. Also in [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3) we practiced using the Sculpt Tools in Fusion 360.
 
 ---
-## Project 4
+## Project 4 - Final Project
 
-TBD
+Proposal-based final project. Details forthcoming.
 
 ---
 ## Project 5
 
-TBD
+No actual project 5 due to COVID disruption.
