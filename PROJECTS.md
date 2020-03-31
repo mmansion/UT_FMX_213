@@ -115,13 +115,25 @@ The following materials should be submitted to *mmansion@ut.edu* :
 | :---------------- |
 | <sub> 1. Explore the Sculpt (and Patch) Workspaces</sub>   |
 | <sub> 2. Use a Canvas to sketch from a reference image</sub>   |
-| <sub> 3. Use surface modeling techniques (T-Splines) to create a more organic 3D forms</sub> |
+| <sub> 3. Use freeform (T-Splines) and surface modeling techniques to create a more organic 3D forms</sub> |
 
-Up until now we've primarily focused on creating solid models (bodies) in Fusion 360, using the "Modeling Workspace". We have also explored the process of starting from 2D sketches, and then extruding those models into 3D forms. 
+Until now we've mainly focused on creating solid models in the Fusion 360 Modeling Workspace. We discovered how to take 2D sketches and extruded 3D forms—a common workflow for any 3D environment. But the parametric features in Fusion 360 (expressed in the timeline) are unique, and allow us to go back to our sketches, change dimensions, and then update the shape of our model at any time. The Modeling workspace in Fusion 360 is best for designing precision objects intended for fabrication. 
 
-Another common method of modeling is generally known as surface modeling. Fusion 360 allows us to use the sculpt environment (T-Splines) to create more organic shape and curvature modeling that can be quickly converting to BREP geometry. Rather than thinking of our 3D objects as discrete volumes containing a mass, we can imagine that the model as an empty shell, defined by only its surfaces (BREP). If surfaces are "stiched"  together, they effectively behave like any other solid body in Fusion 360. Once a body, you can use any of the shaping techniques, such as combine, cut, fillet, chamfer, etc. 
+Two other common modeling methods in Fusion 360 are Freeform and Surface modeling, part of the Sculpting and Surface workspaces respectively. In the Sculpt workspace we work with T-Splines, which are essentially freeform surfaces that can be subdivided, and allow for adjustment of any segments, edges or vertices; in the Patch workspace, we work with flat surfaces and can extrude single lines.
 
-Surface modeling is sometimes more technical if unstiching and stiching curved surfaces together. Regardless, surface modeling is generally considered better for making more complex or organic forms, because you can create some really unique shapes that aren't based on simple primitive geometry. In this project we will explore surface modeling by attempting to model an object from nature. Our aim will be to create a digital still life image.
+<img style="float:left" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/surface_modeling.png" width="100">
+<img style="clear:both" src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/freeform_modeling.png" width="100">
+
+
+
+Project 3 - Nature Driven Design
+Find a flora-based lifeform in your home or in some nearby nature Try to choose something that inspires you, or that has a unique form.
+Take photos of the plant from various angles. Study it closely. What are its qualities? 
+Write out a list of notes describing the shape, form, texture and color of the plant.
+Consider these notes and sketch several ideas on paper for a vase design; the design should consider the qualities and somehow express or respond to these qualities.
+In Fusion 360 use a combination of Freeform and Surface modeling tools to create a unique artifact.
+Mold the design into a model that can be 3D-printed.
+
 
 In [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3), we will practice using the Sculpt Tools in Fusion 360.
 
