@@ -4,7 +4,7 @@
 | :----------------- |
 | <sub>[Project 1 - Modeling & Fabricating Found Objects](#project-1)</sub> |
 | <sub>[Project 2 - Storytelling with Objects](#project-2)</sub> |
-| <sub>[Project 3 - Modeling from Nature](#project-3)</sub> |
+| <sub>[Project 3 - Nature-Driven Design](#project-3)</sub> |
 
 ---
 ## Project 1
@@ -136,6 +136,8 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/project3_examples.png" width="800">
 
 #### Final Deliverables
+
+**`Materials Due by class on Thursday, 4/16)`**
 
 **1. Email a zip folder containing the following:**
   * Photo of your original found organic object (The Plant)
