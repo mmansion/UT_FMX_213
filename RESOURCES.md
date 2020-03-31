@@ -83,7 +83,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
   * [Fusion 360 - Making a 3D Printed Product Enclosure](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-3D-Printed-Product-Enclosure/642471-2.html)
   * [Fusion 360 - Design for Additive Manufacturing](https://www.lynda.com/Fusion-360-tutorials/Design-Additive-Manufacturing-FDM/609006-2.html)
   * [2D Sketching in Fusion 360](https://www.udemy.com/course/10-ten-2d-drawings-to-master-2d-sketching-in-fusion-360-d/)
-  * [Foundational Modeling Techniques](https://www.youtube.com/watch?v=1wNBBLh9Qu0)
+  * <a href="https://www.youtube.com/watch?v=1wNBBLh9Qu0" target="_blank">Foundational Modeling Techniques</a>
 
 * ### 3D Printing
    * [Design for Printability](https://ultimaker.com/en/resources/22015-designing-for-printability)
