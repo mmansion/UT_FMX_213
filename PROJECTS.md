@@ -133,7 +133,7 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
 4. Use the canvas feature in Fusion 360 to create a reference. You don't have to follow it exactly, but it should "inform" your model's design.
 5. Try using a combination of Freeform and Surface modeling tools to create a unique artifact. Mold your design into a model that can be 3D-printed. (IT IS LIKELY THAT WE CANNOT ACTUALLY PRINT THESE OBJECTS. BUT YOU SHOULD MODEL IT AS IF YOU WERE GOING TO PRODUCE IT. THIS MEANS THAT SEAMS OF SURFACES SHOULD BE STITCHED AND THE OBJECT 'WATER TIGHT')
 
-<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/project3_examples.png" width="300">
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/project3_examples.png" width="800">
 
 #### Final Deliverables
 
