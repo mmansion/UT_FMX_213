@@ -152,8 +152,6 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
     * What would you do differently next time?
     * Any other details you find relevant.
 
--
-
 Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md) page for support and tutorials. Also in [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3) we practiced using the Sculpt Tools in Fusion 360.
 
 ---
