@@ -156,6 +156,12 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
 
 Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md) page for support and tutorials. Also in [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3) we practiced using the Sculpt Tools in Fusion 360.
 
+#### Helpful Resources 
+
+* [Course Resources Page](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md)
+  * [How To : Sweep a Path](https://docs.google.com/presentation/d/1j8z4RsSG4KmViyYVBLf4taKPLU0AoZ-59-ce0UqndPo/edit?usp=sharing)
+   
+
 ---
 ## Project 4 - Final Project
 
