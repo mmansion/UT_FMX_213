@@ -93,6 +93,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
    * [Fab Lab - 3D Printing Troubleshooting Guide](https://www.lynda.com/SharedPlaylist/6536ff86b9c14c3a80076078c0a3103a)
    * [Rafts, Skirts & Brims](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims/)
    * [How To : Sweep a Path](https://docs.google.com/presentation/d/1j8z4RsSG4KmViyYVBLf4taKPLU0AoZ-59-ce0UqndPo/edit?usp=sharing)
+   * [How To : Loft between Lines](https://docs.google.com/presentation/d/1vd1hIPtDH2lVXkYIg3NYKHODoi-lIdijcj4XP1LH8Oo/edit#slide=id.g82ac44d4df_4_0)
    
 * ### Rendering
   * [Gallery of Fusion 360 Models & Renders](https://gallery.autodesk.com/projects/all#filters=%5B%5B%22industries%22%2C%22Other%20Industries%22%2C%22Other%20Industries%22%5D%2C%5B%22categories%22%2C%22Design%22%2C%22Design%22%5D%2C%5B%22main_products%22%2C%22Fusion%20360%22%2C%22Fusion%20360%22%5D%5D&sort=popularity)
