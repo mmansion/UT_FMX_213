@@ -94,6 +94,7 @@ The primary software in this course we will explore is Fusion 360; and the prima
    * [Rafts, Skirts & Brims](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims/)
    * [How To : Sweep a Path](https://docs.google.com/presentation/d/1j8z4RsSG4KmViyYVBLf4taKPLU0AoZ-59-ce0UqndPo/edit?usp=sharing)
    * [How To : Loft between Lines](https://docs.google.com/presentation/d/1vd1hIPtDH2lVXkYIg3NYKHODoi-lIdijcj4XP1LH8Oo/edit#slide=id.g82ac44d4df_4_0)
+   *<a href="https://docs.google.com/presentation/d/1vd1hIPtDH2lVXkYIg3NYKHODoi-lIdijcj4XP1LH8Oo/edit#slide=id.g82ac44d4df_4_0" target="_blank">How To : Loft between Lines</a>
    
 * ### Rendering
   * [Gallery of Fusion 360 Models & Renders](https://gallery.autodesk.com/projects/all#filters=%5B%5B%22industries%22%2C%22Other%20Industries%22%2C%22Other%20Industries%22%5D%2C%5B%22categories%22%2C%22Design%22%2C%22Design%22%5D%2C%5B%22main_products%22%2C%22Fusion%20360%22%2C%22Fusion%20360%22%5D%5D&sort=popularity)
