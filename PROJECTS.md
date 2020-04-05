@@ -160,6 +160,7 @@ Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/mas
 
 * [Course Resources Page](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md)
   * [How To : Sweep a Path](https://docs.google.com/presentation/d/1j8z4RsSG4KmViyYVBLf4taKPLU0AoZ-59-ce0UqndPo/edit?usp=sharing)
+  * [How To : Loft between Lines](https://docs.google.com/presentation/d/1vd1hIPtDH2lVXkYIg3NYKHODoi-lIdijcj4XP1LH8Oo/edit#slide=id.g82ac44d4df_4_0)
    
 
 ---
