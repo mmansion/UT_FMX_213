@@ -144,7 +144,7 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
   * Image of the modeled object (Rendered view)
   * Optional - Photo of the printed object ( `This will not be possible for everyone` )
 
-**2. A link you your blog post for project 1, with the following:**
+**2. A link you your blog post for this project, with the following:**
 
   * The above-mentioned images
   * Brief paragraph describing
