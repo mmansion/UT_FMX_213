@@ -133,6 +133,8 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
 4. Use the canvas feature in Fusion 360 to create a reference. You don't have to follow it exactly, but it should "inform" your model's design.
 5. Try using a combination of Freeform and Surface modeling tools to create a unique artifact. Mold your design into a model that can be 3D-printed. (IT IS LIKELY THAT WE CANNOT ACTUALLY PRINT THESE OBJECTS. BUT YOU SHOULD MODEL IT AS IF YOU WERE GOING TO PRODUCE IT. THIS MEANS THAT SEAMS OF SURFACES SHOULD BE STITCHED AND THE OBJECT 'WATER TIGHT')
 
+`NOTE` - In this [Process Example](https://drive.google.com/open?id=1LJ_UXP3m26EptotrXA-EqCMNsqEb5TCafy5FZxsnsPc) I've worked through this assignment. It might be helpful to see one interpretation of this work. Since this is a art assignment, your interpretation is going to be different, but should follow a similar process.
+
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/project3_examples.png" width="800">
 
 #### Final Deliverables
@@ -153,6 +155,7 @@ Two other common modeling methods in Fusion 360 are Freeform and Surface modelin
     * How your design responded to the observed qualities.
     * What would you do differently next time?
     * Any other details you find relevant.
+
 
 Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/master/RESOURCES.md) page for support and tutorials. Also in [Exercise 3](https://github.com/mmansion/UT_FMX_213/blob/master/EXERCISES.md#exercise-3) we practiced using the Sculpt Tools in Fusion 360.
 
