@@ -5,6 +5,7 @@
 | <sub>[Project 1 - Modeling & Fabricating Found Objects](#project-1)</sub> |
 | <sub>[Project 2 - Storytelling with Objects](#project-2)</sub> |
 | <sub>[Project 3 - Nature-Driven Design](#project-3)</sub> |
+| <sub>[Project 4 - Final Project](#project-4)</sub> |
 
 ---
 ## Project 1
@@ -169,9 +170,21 @@ Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/mas
 ---
 ## Project 4 - Final Project
 
-Proposal-based final project. Details forthcoming.
+####  FINAL PROJECTS
+
+What part of 3D Modeling/Design and fabrication has been the most interesting/rewarding for you during the course? 
+<br>
+For the final project in this course, you may choose one of the following directions:
+<br>
+1. Explore a new software/tool related to 3D modeling and create a project.
+2. Write a Research Paper that takes a critical and in depth look at an aspect of 3D design and fabrication.
+3. Create a virtual 3D space that represents your future dream place.
+4. Design an idea for a product and model it in 3D that solves a real life problem.
+5. Propose and create an original project that is based on the 3D skills you learned in this class.
+
+`NOTE`:  For options 1-4, criteria will be provided for what you should submit. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
 
 ---
 ## Project 5
 
-No actual project 5 due to COVID disruption.
+No actual project 5 due to COVID. Automatic 100%.
