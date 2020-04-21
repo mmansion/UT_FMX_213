@@ -168,7 +168,7 @@ Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/mas
    
 
 ---
-## Project 4 - Final Project
+## Project 4
 
 ####  FINAL PROJECTS
 
