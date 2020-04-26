@@ -6,6 +6,7 @@
 | <sub>[Project 2 - Storytelling with Objects](#project-2)</sub> |
 | <sub>[Project 3 - Nature-Driven Design](#project-3)</sub> |
 | <sub>[Project 4 - Final Project](#project-4)</sub> |
+| <sub>[Extra Credit](#extra-credit)</sub> |
 
 ---
 ## Project 1
