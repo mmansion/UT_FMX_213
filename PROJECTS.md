@@ -186,7 +186,7 @@ For the final project in this course, you may choose one of the following direct
 
 `NOTE`:  For options 1-4, criteria is provided below. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
 
-***************************************************************
+## 
 
 ####  PROJECT OPTIONS CRITERIA
 
