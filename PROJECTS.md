@@ -190,7 +190,7 @@ For the final project in this course, you may choose one of the following direct
 
 ####  PROJECT OPTIONS CRITERIA
 
-##### Option 1. 
+#### Option 1. 
 
 **Explore a New Tool**
 <br>
@@ -208,7 +208,7 @@ For the final project in this course, you may choose one of the following direct
 * Emailed zip file final renders/images.
 
 
-##### Option 2. 
+#### Option 2. 
 
 **Write a Research Paper**
 <br><br>
@@ -228,8 +228,7 @@ Compose a research paper that takes a critical and in depth look at one of the f
 * Create a blog post with an abstract of your paper, along with a supporting image.
 * Email a PDF of your final paper.
 
-##### Option 3. 
-
+#### Option 3. 
 
 **Create a 3D Virtual Space**
 <br><br>
@@ -249,6 +248,27 @@ Compose a research paper that takes a critical and in depth look at one of the f
 * Emailed zip file final images
 
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/virtual_space_example.png" width="800">
+
+
+#### Option 4. 
+
+**Product Design**
+<br><br>
+
+* Can you think of a 3D-design that can solve a problem in your life? Imagine. If you could solve just one problem in your life, then you might be able to solve that same problem for others. The idea of “scratching your own itch” is a valid method of creating a product idea. See some of the images below for examples.
+
+* Start by making observations of your day-to-day life. What kinds of frictions or pain-points do you have? Is there something you do regularly that could be improved with a 3D-printed design? Use Fusion 360 to develop a 3D prototype to solve one problem you are having.
+
+**Deliverables**
+<br><br>
+
+* A blog post that summarizes your product design concept (min 300 words). Be sure to include a clear description of the problem your product aims to solve, and how your design addresses that problem.
+* Create 3 final 3D renders of your designed object. Include views from several different angles. Be sure to call out any important features that the audience should understand.
+* Final 3D model placed in the shared Fusion 360 Class Folder
+* Emailed zip file final images
+
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/solve_problem_3dprint.png" width="800">
+
 
 ---
 ## Project 5
