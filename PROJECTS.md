@@ -248,6 +248,8 @@ Compose a research paper that takes a critical and in depth look at one of the f
 * Final 3D model placed in the shared Fusion 360 Class Folder  
 * Emailed zip file final images
 
+<img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/virtual_space_example.png" width="800">
+
 ---
 ## Project 5
 
