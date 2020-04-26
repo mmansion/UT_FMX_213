@@ -133,28 +133,40 @@ Schedule and dates subject to change. Check back often.
 ### Week 12 (2020.04.06)
 
 #### Tue, 4/7
+* Zoom - Regular Class Meeting Time (by email invite)
 #### Thu, 4/9
 
 ---
 ### Week 13 (2020.04.13)
 
 #### Tue, 4/14
+* Zoom - Regular Class Meeting Time (by email invite)
 #### Thu, 4/16
 
 ---
 ### Week 14 (2020.04.20)
 
 #### Tue, 4/21
+* Zoom - Regular Class Meeting Time (by email invite)
 #### Thu, 4/23
 
 ---
 ### Week 15 (2020.04.27)
 
 #### Tue, 4/28
+
+* Zoom - Regular Class Meeting Time (by email invite)
+
 #### Thu, 4/30
-* Project 4 Due : Final Critique TBD
+* Zoom - Open Help Session on Final Projects / Class Worktime (by email invite)
 
 ---
-### Week 16 (2020.05.04) (FINAL CLASS DATE MAY CHANGE)
-* Final Presentations
-* Process Blogs Due
+### Week 16 (2020.04.27)
+
+#### Tue, 5/5
+* Zoom - Open Help Session on Final Projects / Class Worktime (by email invite)
+
+#### Thu, 5/7
+* Zoom - Final Project Presentations (by email invite)
+* `IMPORTANT` **ALL MATERIALS MUST BE SUBMITTED BY FRIDAY, MAY 8TH**
+
