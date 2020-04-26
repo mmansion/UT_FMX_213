@@ -202,14 +202,15 @@ For the final project in this course, you may choose one of the following direct
 
 **Deliverables**
 <br>
-* Blog post describing the software you researched. Minimum of 800 words including posts of your process while working with the software.
-
+* Blog post describing the software you researched. Minimum of 300 words including posts of your process while working with the software.
 * A completed 3D project that in some way utilized the new software/tool you are researching.
+* If applicable - A final 3D model placed in the shared Fusion 360 Class Folder .
+* Emailed zip file final renders/images.
 
 
 ##### Option 2. 
 
-**Research Paper**
+**Write a Research Paper**
 <br><br>
 Compose a research paper that takes a critical and in depth look at one of the following areas:
 
@@ -224,7 +225,28 @@ Compose a research paper that takes a critical and in depth look at one of the f
 * 2000 words minimum / approx ~4 pages.
 * Well formed, adhering to general academic standards (parenthetical references).
 * Research should be informed by at least 3 reputable cited resources.
+* Create a blog post with an abstract of your paper, along with a supporting image.
+* Email a PDF of your final paper.
 
+##### Option 3. 
+
+
+**Create a 3D Virtual Space**
+<br><br>
+
+* Develop a concept and 3D model for your future dream place.  Whether a home, office, garden, art studio or nature space, create a virtual scene that inspires you, and where you could see yourself in the future.
+
+* Use Fusion 360 to build a cut-away view (see examples below) and populate your scene by designing a layout/floorplan, before adding walls and objects. You can either model the objects from scratch, or assemble them from found 3D assets online (be sure to cite any stock assets). At least some of the objects should be modeled by you. 
+
+* Use materials and textures to create the look of your scene. Use the decal features in render view to create realistic looking image-based textures on objects. You can use a photorealistic background, or make something more stylized. Output a rendered view of your scene that sets the mood atmospherically with good lighting.
+
+**Deliverables**
+<br>
+* At least one final 3D Render of your scene with textures and lighting effects
+* At least one (up to 3) detail shots (zoomed in views) of some features of the space
+* A blog post that summarizes your concept in a paragraph (min 300 words) and that describes your process. Include process screenshots.
+* Final 3D model placed in the shared Fusion 360 Class Folder  
+* Emailed zip file final images
 
 ---
 ## Project 5
