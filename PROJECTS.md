@@ -186,11 +186,11 @@ For the final project in this course, you may choose one of the following direct
 
 `NOTE`:  For options 1-4, criteria is provided below. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
 
----
+***************************************************************
 
 ####  PROJECT OPTIONS CRITERIA
 
-#### Option 1. 
+#### Project 4 (Option 1) 
 
 **Explore a New Tool**
 <br>
@@ -208,7 +208,7 @@ For the final project in this course, you may choose one of the following direct
 * Emailed zip file final renders/images.
 
 
-#### Option 2. 
+#### Project 4 (Option 2) 
 
 **Write a Research Paper**
 <br><br>
@@ -228,7 +228,7 @@ Compose a research paper that takes a critical and in depth look at one of the f
 * Create a blog post with an abstract of your paper, along with a supporting image.
 * Email a PDF of your final paper.
 
-#### Option 3. 
+#### Project 4 (Option 3) 
 
 **Create a 3D Virtual Space**
 <br><br>
@@ -250,7 +250,7 @@ Compose a research paper that takes a critical and in depth look at one of the f
 <img src="https://github.com/mmansion/UT_FMX_213/blob/master/IMAGES/virtual_space_example.png" width="800">
 
 
-#### Option 4. 
+#### Project 4 (Option 4) 
 
 **Product Design**
 <br><br>
