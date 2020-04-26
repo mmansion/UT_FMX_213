@@ -190,6 +190,8 @@ For the final project in this course, you may choose one of the following direct
 
 ####  PROJECT OPTIONS CRITERIA
 
+**`All Materials Must be Submitted by May, 8th)`**
+
 #### Project 4 (Option 1) 
 
 **Explore a New Tool**
