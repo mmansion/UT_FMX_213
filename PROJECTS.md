@@ -207,6 +207,25 @@ For the final project in this course, you may choose one of the following direct
 * A completed 3D project that in some way utilized the new software/tool you are researching.
 
 
+##### Option 2. 
+
+**Research Paper**
+<br><br>
+Compose a research paper that takes a critical and in depth look at one of the following areas:
+
+ 1. The impact on 3D-design/fabrication for artists and designers. 
+
+ 2. On the future of 3D design and fabrication.
+
+ 3. An industry impacted by advances in 3D design and fabrication tools.
+
+**Deliverables**
+<br>
+* 2000 words minimum / approx ~4 pages.
+* Well formed, adhering to general academic standards (parenthetical references).
+* Research should be informed by at least 3 reputable cited resources.
+
+
 ---
 ## Project 5
 
