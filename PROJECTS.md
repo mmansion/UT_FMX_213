@@ -276,3 +276,13 @@ Compose a research paper that takes a critical and in depth look at one of the f
 ## Project 5
 
 No *actual* project 5 due to COVID. Automatic 100%.
+
+---
+## Extra Credit
+
+* If you missed a project submission during this semester, or had poor attendance during the first half of the semester, it is recommended to submit this extra credit assignment. This grade will replace any missing project assignment and/or make up for lost participation points.
+
+* **Research Report**
+
+* Create a 1000-word research report on an artist/group/studio, who inspires you and who is using 3D-design/3D-printing in a unique way. Develop a summary of their work, motivations and process. Your report should be a detailed snapshot of their practice, include at least one image and be written to academic standards. For credit, post your report on your blog and send the link via email.
+
