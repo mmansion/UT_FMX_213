@@ -178,11 +178,11 @@ For the final project in this course, you may choose one of the following direct
 <br>
 
 ##### Options
- **Option 1.** Explore a new software/tool related to 3D modeling and create a project.<br>
- **Option 2.** Write a Research Paper that takes a critical and in depth look at an aspect of 3D design and fabrication.<br>
- **Option 3.** Create a virtual 3D space that represents your future dream place.<br>
- **Option 4.** Design an idea for a product and model it in 3D that solves a real life problem.</br>
- **Option 5.** Propose and create an original project that is based on the 3D skills you learned in this class.<br>
+ * **Option 1.** Explore a new software/tool related to 3D modeling and create a project.<br>
+ * **Option 2.** Write a Research Paper that takes a critical and in depth look at an aspect of 3D design and fabrication.<br>
+ * **Option 3.** Create a virtual 3D space that represents your future dream place.<br>
+ * **Option 4.** Design an idea for a product and model it in 3D that solves a real life problem.</br>
+ * **Option 5.** Propose and create an original project that is based on the 3D skills you learned in this class.<br>
 
 `NOTE`:  For options 1-4, criteria is provided below. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
 
