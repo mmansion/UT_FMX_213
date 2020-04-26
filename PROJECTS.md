@@ -170,21 +170,42 @@ Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/mas
 ---
 ## Project 4
 
-####  FINAL PROJECTS
+####  FINAL PROJECT OPTIONS
 
 What part of 3D Modeling/Design and fabrication has been the most interesting/rewarding for you during the course? 
 <br>
 For the final project in this course, you may choose one of the following directions:
 <br>
-1. Explore a new software/tool related to 3D modeling and create a project.
-2. Write a Research Paper that takes a critical and in depth look at an aspect of 3D design and fabrication.
-3. Create a virtual 3D space that represents your future dream place.
-4. Design an idea for a product and model it in 3D that solves a real life problem.
-5. Propose and create an original project that is based on the 3D skills you learned in this class.
+ 1. Explore a new software/tool related to 3D modeling and create a project.
+ 2. Write a Research Paper that takes a critical and in depth look at an aspect of 3D design and fabrication.
+ 3. Create a virtual 3D space that represents your future dream place.
+ 4. Design an idea for a product and model it in 3D that solves a real life problem.
+ 5. Propose and create an original project that is based on the 3D skills you learned in this class.
 
-`NOTE`:  For options 1-4, criteria will be provided for what you should submit. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
+`NOTE`:  For options 1-4, criteria is provided below. For option 5, you must propose an idea first, and we will determine the best format and criteria for submitting the work based on your project. All options require that you put in significant effort and make good efforts on producing good quality documentation.
+
+---
+
+####  CRITERIA
+
+##### Option 1. 
+
+**Explore a New Tool**
+<br>
+* In this option you can take your 3D-Modeling experience in a new direction by researching and documenting a new software/tool while developing a 3D project.
+
+* Research and document the capabilities of a new 3D software. Create a blog-based report (with images). What are the tool’s key features and capabilities? How does it compare to other 3D tools you’ve tried? Describe the process you underwent in this project.
+
+* Develop a 3D design using the new tool. The design tool/software you select can either fully replace Fusion 360 (i.e. a separate 3D modeling environment ) or be used in conjunction with Fusion 360 (i.e. a texture design tool like Substance, or a video game environment, like Unity); and 2) develop and complete a design that feels completed. E.g. the output should be equal to, or exceeding the level of finish we created for other projects.
+
+**Deliverables**
+<br>
+* Blog post describing the software you researched. Minimum of 800 words including posts of your process while working with the software.
+
+* A completed 3D project that in some way utilized the new software/tool you are researching.
+
 
 ---
 ## Project 5
 
-No actual project 5 due to COVID. Automatic 100%.
+No *actual* project 5 due to COVID. Automatic 100%.
