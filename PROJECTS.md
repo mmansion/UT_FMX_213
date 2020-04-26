@@ -172,6 +172,8 @@ Be sure to check the [Resources](https://github.com/mmansion/UT_FMX_213/blob/mas
 
 ####  FINAL PROJECT OPTIONS
 
+**`All Materials Must be Submitted by May, 8th`**
+
 What part of 3D Modeling/Design and fabrication has been the most interesting/rewarding for you during the course? 
 <br>
 For the final project in this course, you may choose one of the following directions:
@@ -189,8 +191,6 @@ For the final project in this course, you may choose one of the following direct
 ## 
 
 ####  PROJECT OPTIONS CRITERIA
-
-**`All Materials Must be Submitted by May, 8th)`**
 
 #### Project 4 (Option 1) 
 
